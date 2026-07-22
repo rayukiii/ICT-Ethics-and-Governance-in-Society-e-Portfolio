@@ -13,6 +13,9 @@ Portfolio 2 | Ethical Theory | Week 4 - August 9 | [portfolio2.md](portfolio2.md
 Portfolio 3 | Intellectual Property | Week 7 - September 6 | [portfolio3.md](portfolio3.md)
 Portfolio 4 | Censorship and Government | Week 9 - September 20 | [portfolio4.md](portfolio4.md)
 
+## Progress Track
+Below are my own progression tracking
+
 ### Checklist of Portfolios
 - [ ] Portfolio 1
 - [ ] Portfolio 2
@@ -22,7 +25,8 @@ Portfolio 4 | Censorship and Government | Week 9 - September 20 | [portfolio4.md
 ### Personal To Do List
 - <!-- Include me own g-->
 
-### Keynotes
+## Keynotes
+Below are important key details of my repository and e-portoflios
 > [!NOTE]
 > This will be overseed by my tutor: @ <!-- Include harita's username idk yet -->
 
