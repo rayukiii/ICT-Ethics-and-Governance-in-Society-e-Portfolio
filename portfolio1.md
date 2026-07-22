@@ -1,4 +1,4 @@
-welfare of mankin v destruction
+> welfare of mankin v destruction
 studying - knowledge - ethics
 you : unethical -> result -> aftereffects
 ibm intention of technology - purposes
