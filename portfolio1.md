@@ -1,3 +1,4 @@
+Notes below
 > welfare of mankin v destruction
 studying - knowledge - ethics
 you : unethical -> result -> aftereffects
