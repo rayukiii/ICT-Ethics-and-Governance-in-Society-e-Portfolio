@@ -24,7 +24,10 @@ Another thing that surprised me is that up to 80% of the water is being used for
 which makes water consumption by AI, __a very major environmental issue__. 
 
 ### Justification on why I chose this artifact
-I chose this video because of the recent trending news in my home country, the Philippines, about **“Pax Silica,”** a US-led AI hub planned to be constructed there (Limos, 2026). The majority of the public, and even some people in the government, were against Pax Silica because of the large amount of water it is expected to consume, as the Philippines has only a limited water supply (Uson, 2026). After watching this video, I understood why so many people were concerned. It made me realise that although AI has many benefits, it can also have a significant impact on the environment if resources such as water are not managed responsibly. This video also made me more aware of the environmental costs of AI, not just because of what is happening in my own country, but because it is an issue that also affects the entire world.
+I chose this video because of the recent trending news in my home country, the Philippines, about **“Pax Silica,”** a US-led AI hub planned to be constructed there (Limos, 2026). 
+The majority of the public, and even some people in the government, were against Pax Silica because of the large amount of water it is expected to consume, as the Philippines has only a limited water supply (Uson, 2026). 
+After watching this video, I understood why so many people were concerned. It made me realise that although AI has many benefits, it can also have a significant impact on the environment if resources such as water are not managed responsibly. 
+This video also made me more aware of the environmental costs of AI, not just because of what is happening in my own country, but because it is an issue that also affects the entire world.
 
 ## Artefact 2: Jobs that might be replaced by AI
 
@@ -32,6 +35,13 @@ I chose this video because of the recent trending news in my home country, the P
 https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31
 
 ### Summary of the artefact
+This article from news.com.au written by Molloy (2024) reports that Australian jobs are now also at risk from AI after a US fast-food chain replaced drive-through staff with AI voice ordering. 
+Which in my view also may affect many other places / country around the world.
+The article estimates that 1.3 million Australian workers may need new careers by 2030, with jobs in administration, customer service, retail, and finance being the most vulnerable. 
+It also explains that jobs, such as call centres, secretaries, and bookkeepers, face the fastest changes, while physical labour jobs remain comparatively safer. 
+From this article, I learned that AI is changing the workforce much faster than I expected and that it will not just affect Australians but also many other countries and maybe thousands to millions of people all around the world.
+This may require these people to develop new skills to stay employable in the future, I think that this may also affect students like me not just workers.
+
 
 ### Justification on why I chose this artifact
 
