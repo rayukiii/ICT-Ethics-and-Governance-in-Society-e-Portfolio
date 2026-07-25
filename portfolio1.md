@@ -26,7 +26,7 @@ which makes water consumption by AI, __a very major environmental issue__. 
 ### Justification on why I chose this artifact
 I chose this video because of the recent trending news in my home country, the Philippines, about **“Pax Silica,”** a US-led AI hub planned to be constructed there (Limos, 2026). The majority of the public, and even some people in the government, were against Pax Silica because of the large amount of water it is expected to consume, as the Philippines has only a limited water supply (Uson, 2026). After watching this video, I understood why so many people were concerned. It made me realise that although AI has many benefits, it can also have a significant impact on the environment if resources such as water are not managed responsibly. This video also made me more aware of the environmental costs of AI, not just because of what is happening in my own country, but because it is an issue that also affects the entire world.
 
-## Artefact 2: 
+## Artefact 2: Jobs that might be replaced by AI
 
 <img width="1852" height="671" alt="image" src="https://github.com/user-attachments/assets/8880292c-4cf1-41d1-b934-d9705475dd5f" />
 https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31
@@ -36,7 +36,7 @@ https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replac
 ### Justification on why I chose this artifact
 
 
-## Artefact 3: 
+## Artefact 3: Misinformation with AI slop
 
 <img width="1867" height="938" alt="image" src="https://github.com/user-attachments/assets/da60acb5-aa23-4c11-b0ba-ab77806d5e1e" />
 
@@ -45,7 +45,7 @@ https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replac
 ### Justification on why I chose this artifact
 
 
-## Artefact 4:
+## Artefact 4: My Workshop Reflection
 Workshop Week: Week 2
 
 Day: 
