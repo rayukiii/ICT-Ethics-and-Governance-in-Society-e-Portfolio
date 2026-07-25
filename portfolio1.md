@@ -1,6 +1,5 @@
 # e-Portfolio 1 – Artificial Intelligence (AI)
-This e-portfolio explores **Artificial Intelligence** (AI) and its ethical, social,
-and governance issues, supported by four artefacts.
+This e-portfolio explores a collection of artefacts on what I have learned about **Artificial Intelligence** (AI) in my 2nd week.
 
 ## Overview of Artefacts
 Artefact # | Title | Type | Source
@@ -18,17 +17,13 @@ https://www.youtube.com/watch?v=b0C56yqIkbk
 ### Summary of the artefact
 This YouTube video by BBC World Service (2025) explains how AI uses drinking water. 
 The CEO of OpenAI claims that one ChatGPT message uses just 1/15 of a teaspoon of water. 
-However, from the video, one study suggests that AI models use around 500 mL of water for every 10 to 50 messages. 
+However, from the video, one study suggests that AI models use around *500 mL of water* for _every 10 to 50 messages_. 
 I was surprised to learn that billions of messages are sent to ChatGPT every day, which means an enormous amount of water is constantly being consumed each day. 
 From what I learned in the video, water is used to cool data centres and to generate the electricity that powers them. 
 Another thing that surprised me is that up to 80% of the water is being used for cooling evaporation, 
 which makes water consumption by AI, a very major environmental issue. 
 
-<!-- Paragraph 2 – Justification & reflection (~65 words): why you chose it,
-how it links to unit material and society, and what you learnt. Journal
-articles need a page number, e.g. (Author, 2024, p. 12). -->
-
----
+### Justification on why I chose this artifact
 
 ## Artefact 2: 
 
