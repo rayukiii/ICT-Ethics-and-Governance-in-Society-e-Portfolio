@@ -13,7 +13,9 @@ Artefact 4 | My Workshop Reflection | Workshop Work | [Link](#)
 ## Artefact 1: How AI uses our drinking water  
 
 <img width="1859" height="942" alt="image" src="https://github.com/user-attachments/assets/431448b0-ce70-42aa-8607-9f1449a75b44" />
+[https://www.youtube.com/watch?v=b0C56yqIkbk](https://www.youtube.com/watch?v=b0C56yqIkbk)
 
+### Summary of the artefact
 This YouTube video by BBC World Service (2025) explains how AI uses drinking water. 
 The CEO of OpenAI claims that one ChatGPT message uses just 1/15 of a teaspoon of water. 
 However, from the video, one study suggests that AI models use around 500 mL of water for every 10 to 50 messages. 
