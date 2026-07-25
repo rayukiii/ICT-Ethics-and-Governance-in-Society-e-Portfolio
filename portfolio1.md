@@ -53,7 +53,7 @@ Date:
 Tutor:
 Campus:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0d0e97c7-4a34-4acf-b130-26de31da5f18" />
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/0d0e97c7-4a34-4acf-b130-26de31da5f18" />
 
 ### Summary of the artefact
 
