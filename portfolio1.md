@@ -16,12 +16,12 @@ https://www.youtube.com/watch?v=b0C56yqIkbk
 
 ### Summary of the artefact
 This YouTube video by BBC World Service (2025) explains how AI uses drinking water. 
-The CEO of OpenAI claims that one ChatGPT message uses just 1/15 of a teaspoon of water. 
-However, from the video, one study suggests that AI models use around *500 mL of water* for _every 10 to 50 messages_. 
-I was surprised to learn that billions of messages are sent to ChatGPT every day, which means an enormous amount of water is constantly being consumed each day. 
+The CEO of OpenAI claims that one ChatGPT message uses just **1/15 of a teaspoon of water**. 
+However, from the video, one study suggests that AI models use around **500 mL of water for every 10 to 50 messages**. 
+I was surprised to learn that *billions of messages* are sent to ChatGPT every day, which means an enormous amount of water is constantly being consumed each day. 
 From what I learned in the video, water is used to cool data centres and to generate the electricity that powers them. 
 Another thing that surprised me is that up to 80% of the water is being used for cooling evaporation, 
-which makes water consumption by AI, a very major environmental issue. 
+which makes water consumption by AI, __a very major environmental issue__. 
 
 ### Justification on why I chose this artifact
 
