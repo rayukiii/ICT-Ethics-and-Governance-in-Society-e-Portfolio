@@ -87,7 +87,7 @@ Campus:
 
 BBC World Service 2025, *How AI uses our drinking water*, video, 14 July, viewed 23 July 2026, https://www.youtube.com/watch?v=b0C56yqIkbk
 
-CBC News 2024, *Exposing the viral 'AI slop' that's fuelling online misinformation*, video, 18 December, viewed 24 July 2026, https://www.youtube.com/watch?v=SRIMu4g9ges
+CBC News 2024, *Exposing the viral 'AI slop' that's fuelling online misinformation*, video, 18 December, viewed 25 July 2026, https://www.youtube.com/watch?v=SRIMu4g9ges
 
 Limos, A 2026, 'Scientists, environmentalists, farmers hit Pax Silica AI hub', *The Manila Times*, 19 July, viewed 25 July 2026, https://www.manilatimes.net/2026/07/19/news/national/scientists-environmentalists-farmers-hit-pax-silica-ai-hub/2386994
 
