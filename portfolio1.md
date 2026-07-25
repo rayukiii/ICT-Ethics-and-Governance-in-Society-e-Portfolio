@@ -28,24 +28,36 @@ I chose this video because of the recent trending news in my home country, the P
 
 ## Artefact 2: 
 
+<img width="1852" height="671" alt="image" src="https://github.com/user-attachments/assets/8880292c-4cf1-41d1-b934-d9705475dd5f" />
+https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31
 
-<!-- Paragraph 1 – Summary -->
+### Summary of the artefact
 
-<!-- Paragraph 2 – Justification & reflection -->
+### Justification on why I chose this artifact
 
 
 ## Artefact 3: 
 
-<!-- Paragraph 1 – Summary -->
+<img width="1867" height="938" alt="image" src="https://github.com/user-attachments/assets/da60acb5-aa23-4c11-b0ba-ab77806d5e1e" />
 
-<!-- Paragraph 2 – Justification & reflection -->
+### Summary of the artefact
+
+### Justification on why I chose this artifact
 
 
-## Artefact 4: 
+## Artefact 4:
+Workshop Week: Week 2
 
-<!-- Paragraph 1 – Summary -->
+Day: 
+Date:
+Tutor:
+Campus:
 
-<!-- Paragraph 2 – Justification & reflection -->
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/0d0e97c7-4a34-4acf-b130-26de31da5f18" />
+
+### Summary of the artefact
+
+### Justification on why I chose this artifact
 
 
 ## Progress Checklist
@@ -62,7 +74,6 @@ I chose this video because of the recent trending news in my home country, the P
 
 ## References
 <!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
-## References
 
 BBC World Service 2025, *How AI uses our drinking water*, video, 14 July, viewed 23 July 2026, https://www.youtube.com/watch?v=b0C56yqIkbk
 
@@ -79,7 +90,7 @@ Uson, M 2026, 'What exactly is Pax Silica, and why is it sparking environmental 
 > **AI use policy:** 
 > As instructed, Generative AI was used for planning and research only.
 
-Notes below
+<!--Notes below - to be removed
 > welfare of mankin v destruction
 studying - knowledge - ethics
 you : unethical -> result -> aftereffects
@@ -87,5 +98,5 @@ ibm intention of technology - purposes
 ai good v bad
 war / technology
 emergency support / robotics
-chihuahua and a muffin
+chihuahua and a muffin-->
 
