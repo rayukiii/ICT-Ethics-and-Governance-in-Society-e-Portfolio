@@ -24,6 +24,7 @@ Another thing that surprised me is that up to 80% of the water is being used for
 which makes water consumption by AI, __a very major environmental issue__. 
 
 ### Justification on why I chose this artifact
+I chose this video because of the recent trending news in my home country, the Philippines, about **“Pax Silica,”** a US-led AI hub planned to be constructed there (Limos, 2026). The majority of the public, and even some people in the government, were against Pax Silica because of the large amount of water it is expected to consume, as the Philippines has only a limited water supply (Uson, 2026). After watching this video, I understood why so many people were concerned. It made me realise that although AI has many benefits, it can also have a significant impact on the environment if resources such as water are not managed responsibly. This video also made me more aware of the environmental costs of AI, not just because of what is happening in my own country, but because it is an issue that also affects the entire world.
 
 ## Artefact 2: 
 
