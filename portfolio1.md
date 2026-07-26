@@ -6,7 +6,7 @@ Artefact # | Title | Type | Source
 ---------- | -------- | -------------- | --------------
 Artefact 1 | How AI uses our drinking water  | Youtube Video | [Link](https://www.youtube.com/watch?v=b0C56yqIkbk)
 Artefact 2 | Jobs that might be replaced by AI | News Article | [Link](https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31)
-Artefact 3 | Misinformation with AI slop  | Youtube | [Link](https://www.youtube.com/watch?v=SRIMu4g9ges)
+Artefact 3 | Misinformation with AI slop  | Youtube Video | [Link](https://www.youtube.com/watch?v=SRIMu4g9ges)
 Artefact 4 | My Workshop Reflection | Workshop Work | Week 2
 
 ## Artefact 1: How AI uses our drinking water  
@@ -76,8 +76,8 @@ and it would be way much harder to know what is real or not.
 
 ## Artefact 4: My Workshop Reflection
 
-**Workshop Details** | **Information** 
----------- | ----------
+ **Workshop Details** 
+----------------------
 Workshop Week | Week 2 
 Day | Tuesday 
 Date | 21 July, 2026 
