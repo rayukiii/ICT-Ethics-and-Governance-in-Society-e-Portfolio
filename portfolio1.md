@@ -45,8 +45,10 @@ This may require millions of people to develop new skills to stay employable in 
 
 ### Justification on why I chose this artefact
 I chose this news article because it was one of the scariest artefacts for me as a student studying Information Technology. 
-I searched on Google for “recent news about jobs that might be replaced by AI” and found this article, 
-which also explains ideas that were very similar to what we discussed in our workshop. 
+I searched on Google for “recent news about jobs that might be replaced by AI” and found this news article, 
+which reflected a discussion we had in our workshop about which jobs are likely to be replaced by AI and which ones are safer. 
+Just like in the news article, we talked about roles such as administration, customer service, retail, and finance being at high risk, 
+while jobs requiring physical or manual labour were seen much safer. It was an amazing discussion as we all shared why we thought a job is safe or not.
 It made me think about how AI could affect my future career and how important it is to keep learning new skills. 
 At the same time, it also made me wonder how fascinating it is that AI can gradually learn and perform tasks that humans can do.
 
@@ -88,6 +90,9 @@ Before this workshop, I only thought of AI as tools like ChatGPT, but I learned 
 I also learned that AI is still not perfect because it can sometimes struggle to identify similar objects, such as distinguishing between a muffin and a chihuahua. 
 We discussed how AI can be used to help people, such as supporting emergency situations, but also how it could be misused in wars or to spread misinformation. 
 I also learned that AI may change many jobs in the future and that it is important for students like me to understand how to use AI responsibly and ethically.
+My tutor also gave us two scenarios to get us thinking about ethical use: 
+1. whether I’d take an item without paying if there were no CCTVs, 
+2. and whether I’d let AI complete a group task if i'm pressured and my teammates weren’t helping and a deadline was closing in fast.
 
 ### Justification on why I chose this artifact
 The photo attached was taken after our workshop because we were so immersed in what our tutor was teaching, and the discussions we had were very interesting. 
@@ -95,20 +100,20 @@ Many of the artefacts I chose for this e-portfolio were inspired by those discus
 Another example that I found interesting was when my tutor shared an encounter with a Meta AI-generated video of Cristiano Ronaldo, a famous footballer, speaking Hindi with accurate lip syncing. 
 Since it is not known that Cristiano Ronaldo speaks Hindi, my tutor became suspicious and fact-checked the video, confirming that it was AI-generated. 
 This showed me how realistic AI-generated content has become and why it is important to verify information before believing or sharing it. 
+The AI scenario was the highlight that stayed with me the most: the situation described wasn’t about laziness, it was about real pressure, having a job, an unhelpful group, and a deadline closing in fast. 
+As a university student I can really relate to it. Many of my classmates said they would let AI complete the whole task in that situation, mainly out of fear of failing and having to repeat the unit. 
+But the more I thought about it, I realised that outcome doesn’t actually go away; if I used AI to do everything and got caught, I’d still end up repeating the unit anyway. 
 This workshop helped me better understand what AI is, its benefits, its risks, and how we, as students, should use AI responsibly.
 
-## Progress Checklist
+<!--## Progress Checklist
 - [X] Artefact 1 written (summary + reflection)
 - [X] Artefact 2 written
 - [X] Artefact 3 written
 - [X] Artefact 4 written
 - [X] Workshop photo added
 - [X] Harvard references complete (page numbers on journals)
-- [ ] Word count ~500
 - [ ] Exported to PDF & submitted to Moodle
-
----
-
+-->
 ## References
 <!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
 
@@ -127,13 +132,56 @@ Uson, M 2026, 'What exactly is Pax Silica, and why is it sparking environmental 
 > **AI use policy:** 
 > As instructed, Generative AI was used for planning and research only.
 
-<!--Notes below - to be removed
-> welfare of mankin v destruction
+<!--Notes below 
+welfare of mankin v destruction
 studying - knowledge - ethics
 you : unethical -> result -> aftereffects
 ibm intention of technology - purposes
 ai good v bad
 war / technology
 emergency support / robotics
-chihuahua and a muffin-->
+chihuahua and a muffin
+
+The things ive learned in my workshop
+
+Ai has been there for a very long time starting from calculators to computers
+From Iphone fingerprint checkers to facial recognition
+
+Ai have difficulties on robot identification things similar to muffins and a chihuahua 
+or when it comes to differnetiating pictures
+
+We also talked about how Ai is being made for the welfare of mankind or destruction because what if Ai is being used in wars now 
+
+For emergency supports too like my tutor were talking about a cave incident and it was used to provide food for the children inside to be kept alive
+
+IBM intention of technology purpose for AI that AI was not built for malicious purposes etc and they would be against AI in war
+
+we also studied about how us students use ai and what will happen if we use ai unethically and what will be its results in the future especially on our careers and life
+
+my tutor talked about various of things and i forgot why we talked about this but she gave out an example of two things
+
+If what will you do if you needed a pen back then when there is no cctv’s but u cannot pay because u lost a penny
+will you rob it, will you ask for permission, will you beg or etc.
+
+Another scenario was 
+If you are having a rought time, all your group mates are not helping
+would you use AI to complete the whole task etc
+
+My first answer to the first one is I will ask if I can take then pen and come back and pay it later, they might not believe be but the good thing is I asked they couldve just lend me a used pen too.
+
+My second answer is I would but in a different way. I won’t use it to complete but I will use it to plan on how much I can do with the time left and how can i handle the workload without the help of my teammates with a short amount of time. There are multiple resources I could use. I can also ask for extension if possible. AI is just a cheese in a mousetrap, I highly don’t believe it is possible to just use AI to complete a whole project or else it would be academic integrity risk.
+
+We also talked about what jobs might also affect ai mostly and what it might not affect
+i love this the most because we kept giving reasons why and harita also provides evidences why and how she might disagree on some opinion 
+it was a very amazing discussion
+
+we also talked about things such as misinformation in ai now how it can mislead people etc
+
+most of my artefacts were carefully chosen from things ive found out during my workshop
+
+my tutor shared an example that was with his husband/family then told us about their encounter with a Meta AI-generated video of Cristiano Ronaldo, a famous footballer speaking Hindi with accurate lip syncing. 
+Since it is not known that Ronaldo can speak Hindi, my tutor grew suspicious and fact-checked the video, confirming it was AI-generated.  Its crazy cuz even professionals or people who know AI capabilities may be like momentarily fooled by things like AI generated or personalized videos.
+-->
+
+
 
