@@ -70,7 +70,7 @@ I learned from this video that AI can be used with malicious intent or purposes 
 I found this video very interesting as I searched about AI slop and this video from CBC news appeared 
 which is very different from what I knew about AI slop.
 I only know how AI slop makes funny low-quality generated pictures
-and now I found out that people can misuse it to spread misinformation that can change public and policat views of people..
+and now I found out that people can misuse it to spread misinformation that can change public and policat views of people.
 I find it very concerning, as what If AI advances further in the future it could be used to fuel more than just social and political conflicts
 and it would be way much harder to know what is real or not.
 
@@ -80,10 +80,10 @@ and it would be way much harder to know what is real or not.
 
 Workshop Week | Week 2 
 ------|-------------
-Day | Tuesday 
-Date | 21 July, 2026 
-Tutor | Harita Chugh 
-Campus | Melbourne 
+**Day** | Tuesday 
+**Date** | 21 July, 2026 
+**Tutor** | Harita Chugh 
+**Campus** | Melbourne 
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/0d0e97c7-4a34-4acf-b130-26de31da5f18" />
 
@@ -94,8 +94,8 @@ I also learned that AI is still not perfect because it can sometimes struggle to
 We discussed how AI can be used to help people, such as supporting emergency situations, but also how it could be misused in wars or to spread misinformation. 
 I also learned that AI may change many jobs in the future and that it is important for students like me to understand how to use AI responsibly and ethically.
 My tutor also gave us two scenarios to get us thinking about ethical use: 
-1. whether I’d take an item without paying if there were no CCTVs, 
-2. and whether I’d let AI complete a group task if i'm pressured and my teammates weren’t helping and a deadline was closing in fast.
+1. what i'll do if i need to buy a pen that only cost a penny but you forgot your wallet and there were no CCTVs, 
+2. and whether I’d let AI complete a group task if i'm pressured and my teammates weren’t helping and the deadline were closing in fast.
 
 ### Justification on why I chose this artefact
 The photo attached was taken after our workshop because we were so immersed in what our tutor was teaching, and the discussions we had were very interesting. 
