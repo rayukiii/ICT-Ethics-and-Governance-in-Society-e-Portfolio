@@ -23,7 +23,7 @@ From what I learned in the video, water is used to cool data centres and to gene
 Another thing that surprised me is that up to 80% of the water is being used for cooling evaporation, 
 which makes water consumption by AI, a very major environmental issue. 
 
-### Justification on why I chose this artifact
+### Justification on why I chose this artefact
 I chose this video because during the workshop we talked about recent trendings and it made me interested of what are the recent trending news in my home country, the Philippines, 
 I found out that “Pax Silica,” a US-led AI hub planned to be constructed in my country (Limos, 2026). 
 The majority of the public, and even some people in the government, were against Pax Silica because of the large amount of water it is expected to consume, as the Philippines has only a limited water supply (Uson, 2026). 
@@ -66,7 +66,7 @@ the video talks about a TikTok account that used AI to create fake explosions in
 I learned from this video that AI can be used with malicious intent or purposes not just for views, likes or even money.
 
 
-### Justification on why I chose this artifact
+### Justification on why I chose this artefact
 I found this video very interesting as I searched about AI slop and this video from CBC news appeared 
 which is very different from what I knew about AI slop.
 I only know how AI slop makes funny low-quality generated pictures
@@ -97,7 +97,7 @@ My tutor also gave us two scenarios to get us thinking about ethical use:
 1. whether I’d take an item without paying if there were no CCTVs, 
 2. and whether I’d let AI complete a group task if i'm pressured and my teammates weren’t helping and a deadline was closing in fast.
 
-### Justification on why I chose this artifact
+### Justification on why I chose this artefact
 The photo attached was taken after our workshop because we were so immersed in what our tutor was teaching, and the discussions we had were very interesting. 
 Many of the artefacts I chose for this e-portfolio were inspired by those discussions. One topic that stayed with me was when my tutor and my classmates discussed which jobs are likely to be replaced by AI and which ones are less likely to be affected. 
 Another example that I found interesting was when my tutor shared an encounter with a Meta AI-generated video of Cristiano Ronaldo, a famous footballer, speaking Hindi with accurate lip syncing. 
