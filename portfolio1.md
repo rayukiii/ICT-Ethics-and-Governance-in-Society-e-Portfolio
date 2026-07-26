@@ -7,7 +7,7 @@ Artefact # | Title | Type | Source
 Artefact 1 | How AI uses our drinking water  | Youtube Video | [Link](https://www.youtube.com/watch?v=b0C56yqIkbk)
 Artefact 2 | Jobs that might be replaced by AI | News Article | [Link](https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31)
 Artefact 3 | Misinformation with AI slop  | Youtube Video | [Link](https://www.youtube.com/watch?v=SRIMu4g9ges)
-Artefact 4 | My Workshop Reflection | Workshop Work | Week 2
+Artefact 4 | My Workshop Reflection | Workshop Work | [Link](https://github.com/rayukiii/ICT-Ethics-and-Governance-in-Society-e-Portfolio/blob/main/portfolio1.md#artefact-4-my-workshop-reflection)
 
 ## Artefact 1: How AI uses our drinking water  
 
