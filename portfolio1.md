@@ -76,9 +76,10 @@ and it would be way much harder to know what is real or not.
 
 ## Artefact 4: My Workshop Reflection
 
- **Workshop Details** | |
-----------------------|-|
+### Workshop Details
+
 Workshop Week | Week 2 
+------|-------------
 Day | Tuesday 
 Date | 21 July, 2026 
 Tutor | Harita Chugh 
