@@ -7,7 +7,7 @@ Artefact # | Title | Type | Source
 Artefact 1 | How AI uses our drinking water  | Youtube Video | [Link](https://www.youtube.com/watch?v=b0C56yqIkbk)
 Artefact 2 | Jobs that might be replaced by AI | News Article | [Link](https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31)
 Artefact 3 | Misinformation with AI slop  | Youtube | [Link](https://www.youtube.com/watch?v=SRIMu4g9ges)
-Artefact 4 | My Workshop Reflection | Workshop Work | [Link](#)
+Artefact 4 | My Workshop Reflection | Workshop Work | Week 2
 
 ## Artefact 1: How AI uses our drinking water  
 
@@ -16,16 +16,16 @@ https://www.youtube.com/watch?v=b0C56yqIkbk
 
 ### Summary of the artefact
 This YouTube video by BBC World Service (2025) explains how AI uses drinking water. 
-The CEO of OpenAI claims that one ChatGPT message uses just **1/15 of a teaspoon of water**. 
-However, from the video, one study suggests that AI models use around **500 mL of water for every 10 to 50 messages**. 
-I was surprised to learn that *billions of messages* are sent to ChatGPT every day, which means an enormous amount of water is constantly being consumed each day. 
+The CEO of OpenAI claims that one ChatGPT message uses just 1/15 of a teaspoon of water. 
+However, from the video, one study suggests that AI models use around 500 mL of water for every 10 to 50 messages. 
+I was surprised to learn that billions of messages are sent to ChatGPT every day, which means an enormous amount of water is constantly being consumed each day. 
 From what I learned in the video, water is used to cool data centres and to generate the electricity that powers them. 
 Another thing that surprised me is that up to 80% of the water is being used for cooling evaporation, 
-which makes water consumption by AI, __a very major environmental issue__. 
+which makes water consumption by AI, a very major environmental issue. 
 
 ### Justification on why I chose this artifact
 I chose this video because during the workshop we talked about recent trendings and it made me interested of what are the recent trending news in my home country, the Philippines, 
-I found out that **“Pax Silica,”** a US-led AI hub planned to be constructed in my country (Limos, 2026). 
+I found out that “Pax Silica,” a US-led AI hub planned to be constructed in my country (Limos, 2026). 
 The majority of the public, and even some people in the government, were against Pax Silica because of the large amount of water it is expected to consume, as the Philippines has only a limited water supply (Uson, 2026). 
 After watching this video, I understood why so many people were concerned. It made me realise that although AI has many benefits, it also have a significant impact on our environment if resources such as water are not managed responsibly. 
 This video also made me more aware of the environmental costs of AI, not just because of what is happening in my own country, but because it is an issue that also affects the entire world.
@@ -100,8 +100,8 @@ Many of the artefacts I chose for this e-portfolio were inspired by those discus
 Another example that I found interesting was when my tutor shared an encounter with a Meta AI-generated video of Cristiano Ronaldo, a famous footballer, speaking Hindi with accurate lip syncing. 
 Since it is not known that Cristiano Ronaldo speaks Hindi, my tutor became suspicious and fact-checked the video, confirming that it was AI-generated. 
 This showed me how realistic AI-generated content has become and why it is important to verify information before believing or sharing it. 
-The AI scenario was the highlight that stayed with me the most: the situation described wasn’t about laziness, it was about real pressure, having a job, an unhelpful group, and a deadline closing in fast. 
-As a university student I can really relate to it. Many of my classmates said they would let AI complete the whole task in that situation, mainly out of fear of failing and having to repeat the unit. 
+The use of AI scenario was the highlight that stayed with me the most: the situation described wasn’t about laziness, it was about real pressure, having a job, an unhelpful group, and a deadline closing in fast. 
+As a working student and from my past experiences, I can really relate to it. Many of my classmates said they would let AI complete the whole task in that situation, mainly out of fear of failing and having to repeat the unit. 
 But the more I thought about it, I realised that outcome doesn’t actually go away; if I used AI to do everything and got caught, I’d still end up repeating the unit anyway. 
 This workshop helped me better understand what AI is, its benefits, its risks, and how we, as students, should use AI responsibly.
 
