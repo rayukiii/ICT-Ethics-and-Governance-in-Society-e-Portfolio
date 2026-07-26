@@ -105,7 +105,7 @@ Since it is not known that Cristiano Ronaldo speaks Hindi, my tutor became suspi
 This showed me how realistic AI-generated content has become and why it is important to verify information before believing or sharing it. 
 The use of AI scenario was the highlight that stayed with me the most: the situation described wasn’t about laziness, it was about real pressure, having a job, an unhelpful group, and a deadline closing in fast. 
 As a working student and from my past experiences, I can really relate to it. Many of my classmates said they would let AI complete the whole task in that situation, mainly out of fear of failing and having to repeat the unit. 
-But the more I thought about it, I realised that outcome doesn’t actually go away; if I used AI to do everything and got caught, I’d still end up repeating the unit anyway. 
+But the more I thought about it, I realised that outcome doesn’t actually change; if I used AI to do everything and got caught, I’d still end up repeating the unit anyway. 
 This workshop helped me better understand what AI is, its benefits, its risks, and how we, as students, should use AI responsibly.
 
 <!--## Progress Checklist
