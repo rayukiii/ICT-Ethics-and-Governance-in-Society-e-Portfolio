@@ -5,13 +5,14 @@ This e-portfolio explores a collection of artefacts on what I have learned about
 Artefact # | Title | Type | Source
 ---------- | -------- | -------------- | --------------
 Artefact 1 | AI Ethics and Transparency | TedEd | [Link](https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber)
-Artefact 2 | Applying Kantianism in AI Ethics | Article | [Link](https://link.springer.com/article/10.1007/s43681-025-00784-8)
+Artefact 2 | Kantianism in AI Ethics | Article | [Link](https://link.springer.com/article/10.1007/s43681-025-00784-8)
 Artefact 3 | AI being shaped for people | Youtube Video | [Link](https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu)
 Artefact 4 | My Workshop Reflection | Workshop Work | [Link]()
 
 ## Artefact 1: AI Ethics and Transparency
 
 https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber
+
 ### Summary of the artefact
 
 This TED-Ed lesson by Hofweber (2024) that talks about the ethical problem of transparency in artificial intelligence (AI). The video presents a scenario where a couple is considering getting married but becomes concerned about their chances of divorcing. In the video, an AI system that can predict their likelihood of divorcing was introduced and the couple were given 95% accuracy that they will divorce. However, the system cannot explain the reasons behind its prediction, which raises a question, “should people allow an AI prediction to influence an important decision when they do not understand how the AI reached its conclusion?” Hofweber (2024).
@@ -47,9 +48,25 @@ After watching it, I realised that I should not automatically trust an AI’s an
 This artefact is the one that gives me a huge amount of mixed feelings because AI has helped me with many aspects of my everyday life. 
 However, I also felt slightly concerned after realising how much I rely on AI, especially when it comes to my personal life matters. It made me question whether I sometimes trust AI more than I should.
 
-## Artefact 2: 
+## Artefact 2: Kantianism in AI Ethics
+
+https://link.springer.com/article/10.1007/s43681-025-00784-8
 
 ### Summary of the artefact
+
+This article by Sanwoolu (2025) talks about applying Kantian deontology, or Kantianism, to artificial intelligence (AI).
+The article discusses how Kantian ethics can be used as a framework for AI even though AI does not have moral agency in the same way humans do. 
+The author focuses on the Categorical Imperative (CI), particularly the Formula of Universal Law (FUL), which can be used to create and evaluate rules for AI actions
+
+<about article.. 5 mins ? or continue w below
+
+The artefact helped me understand...
+
+This made me reflect on...
+
+Workshop...
+
+Feeling..
 
 ### Justification on why I chose this artefact
 
