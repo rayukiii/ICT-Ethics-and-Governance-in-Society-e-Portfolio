@@ -139,7 +139,7 @@ Workshop Week | Week 4
 **Tutor** | Harita Chugh 
 **Campus** | Melbourne 
 
-<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/fa3d0d2a-300f-4514-b423-9f945bee3600" />
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/fa3d0d2a-300f-4514-b423-9f945bee3600" />
 
 ### Summary of the artefact
 The photo attached was taken after our workshop ended as we always prefer focusing on the tutorial before taking any photos. Many of the artefacts I chose for this e-portfolio were inspired by this week’s lecture or PowerPoint discussions. 
@@ -171,6 +171,32 @@ After our discussion, I realised that having proper backups and cybersecurity me
 I also became more interested in cybersecurity because I have considered studying a major related to cybersecurity in the future, so learning about how ransomware can affect universities made the topic even more interesting to me.
 Overall, I chose this artefact because it made me more aware of how cybersecurity can affect universities, students and the way education depends on digital systems.
 
+<!--## Progress Checklist
+- [X] Artefact 1 written (summary + reflection)
+- [X] Artefact 2 written
+- [X] Artefact 3 written
+- [X] Artefact 4 written
+- [X] Workshop photo added
+- [X] Harvard references complete (page numbers on journals)
+- [ ] Exported to PDF & submitted to Moodle
+-->
+
+## References
+<!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
+
+BBC World Service 2025, *How AI uses our drinking water*, video, 14 July, viewed 23 July 2026, https://www.youtube.com/watch?v=b0C56yqIkbk
+
+CBC News 2024, *Exposing the viral 'AI slop' that's fuelling online misinformation*, video, 18 December, viewed 25 July 2026, https://www.youtube.com/watch?v=SRIMu4g9ges
+
+Limos, A 2026, 'Scientists, environmentalists, farmers hit Pax Silica AI hub', *The Manila Times*, 19 July, viewed 24 July 2026, https://www.manilatimes.net/2026/07/19/news/national/scientists-environmentalists-farmers-hit-pax-silica-ai-hub/2386994
+
+Molloy, S 2024, 'The jobs mostly likely to be replaced by artificial intelligence technology in Australia', *news.com.au*, 29 April, viewed 25 July 2026, https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31
+
+Uson, M 2026, 'What exactly is Pax Silica, and why is it sparking environmental concern?', *Philstar Life*, 21 July, viewed 24 July 2026, https://philstarlife.com/news-and-views/314814-what-exactly-is-pax-silica
+
+> [!IMPORTANT]
+> **AI use policy:** 
+> As instructed, Generative AI was used for planning and research only.
 <!--
 AI partner , transparency
 AI in war
