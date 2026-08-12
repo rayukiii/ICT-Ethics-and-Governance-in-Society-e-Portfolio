@@ -178,25 +178,24 @@ Overall, I chose this artefact because it made me more aware of how cybersecurit
 - [X] Artefact 4 written
 - [X] Workshop photo added
 - [X] Harvard references complete (page numbers on journals)
-- [ ] Exported to PDF & submitted to Moodle
+- [] Exported to PDF & submitted to Moodle
 -->
 
 ## References
 <!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
 
-BBC World Service 2025, *How AI uses our drinking water*, video, 14 July, viewed 23 July 2026, https://www.youtube.com/watch?v=b0C56yqIkbk
+Hofweber, T 2024, *Would you use a machine that predicts your future?*, video, 21 May, viewed 7 August 2026, https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber
 
-CBC News 2024, *Exposing the viral 'AI slop' that's fuelling online misinformation*, video, 18 December, viewed 25 July 2026, https://www.youtube.com/watch?v=SRIMu4g9ges
+Sanwoolu, OD 2025, ‘Kantian deontology for AI: alignment without moral agency’, *AI and Ethics*, vol. 5, no. 5, pp. 5425–5437. DOI: 10.1007/s43681-025-00784-8
 
-Limos, A 2026, 'Scientists, environmentalists, farmers hit Pax Silica AI hub', *The Manila Times*, 19 July, viewed 24 July 2026, https://www.manilatimes.net/2026/07/19/news/national/scientists-environmentalists-farmers-hit-pax-silica-ai-hub/2386994
+UNESCO 2020, *Why is ethics crucial in the development of AI?*, video, 11 June, viewed 12 August 2026, https://www.youtube.com/watch?v=HzYG56HLxbI
 
-Molloy, S 2024, 'The jobs mostly likely to be replaced by artificial intelligence technology in Australia', *news.com.au*, 29 April, viewed 25 July 2026, https://www.news.com.au/finance/work/at-work/the-jobs-mostly-likely-to-be-replaced-by-artificial-intelligence-technology-in-australia/news-story/5a567efc9eb1b9dca4ccffd1a8b1fb31
-
-Uson, M 2026, 'What exactly is Pax Silica, and why is it sparking environmental concern?', *Philstar Life*, 21 July, viewed 24 July 2026, https://philstarlife.com/news-and-views/314814-what-exactly-is-pax-silica
+UNESCO 2026, *Shaping AI for the people*, video, 1 July, viewed 11 August 2026, https://www.youtube.com/watch?v=OOMlSOtcVEM
 
 > [!IMPORTANT]
 > **AI use policy:** 
 > As instructed, Generative AI was used for planning and research only.
+
 <!--
 AI partner , transparency
 AI in war
