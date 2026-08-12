@@ -58,11 +58,14 @@ This article by Sanwoolu (2025) talks about applying Kantian deontology, or Kant
 The article discusses how Kantian ethics can be used as a framework for AI even though AI does not have moral agency in the same way humans do. 
 The author focuses on the Categorical Imperative (CI), particularly the Formula of Universal Law (FUL), which can be used to create and evaluate rules for AI actions
 
-<about article.. 5 mins ? or continue w below
+The artefact helped me understand more about Kantianism and how it can be applied to AI. 
+In the workshop, our tutor asked us if it would be considered bad to steal something from a market to give to the poor. 
+According to Kantianism, it is considered "Wrong" or "Bad" because we used the supermarket as a means to do something good. 
+We also discussed picking up a money on the floor (nobody nearby) and us thinking about the consequences if someone else picked it up and used it for a different purpose. 
+For us to pick it up and give it to a donation box, According to Kantianism, it can be considered "Right" or "Good" as there is no malicious purpose.
+And in my perspective if we applied this as the universal rule of Kantianism, It wouldn't cause any chaos universally so I consider it good.
 
-The artefact helped me understand...
-
-This made me reflect on...
+This made me reflect on... 5mins
 
 Workshop...
 
