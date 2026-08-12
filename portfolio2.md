@@ -62,21 +62,37 @@ The artefact helped me understand how the Kantianism theory we discussed in the 
 In the workshop, our tutor asked us if it would be considered bad to steal something from a market to give to the poor. 
 According to Kantianism, it is considered "wrong" or "bad" because we used the supermarket as a means to do something good. 
 We also discussed picking up a money on the floor (nobody nearby) and us thinking about the consequences if someone else picked it up and used it for a different purpose. 
-For us to pick it up and give it to a donation box, According to Kantianism, it can be considered "right" or "good".
-And in my perspective if we applied this with the universal rule of Kantianism, It wouldn't cause any chaos universally so I consider it good.
+For us to pick it up and give it to a donation box, according to the discussion in our workshop, it can be considered “right” or “good.”
+And in my perspective, if we applied this as a universal rule of Kantianism, I don’t think it would cause a problem if everyone followed the same principle, so I consider it good.
 
 This made me reflect on how AI already has rules that affect how it responds to certain situations. 
 For example, when I ask AI about sensitive topics such as crime or harmful situations, it may refuse to give me certain informations or give me a much safer response. 
 I cannot say that AI is actually applying Kant’s Categorical Imperative or Formula of Universal Law when it does this, 
 but it made me think about how AI can already be designed with certain rules for how it should respond to different type of situations. 
 The article made me realise that an AI following a certain restrictions or rules does not necessarily mean that it is following an ethical theory like Kantianism.
+The article is more on about deliberately aligning AI with Kantian principles rather than AI simply following rules created by its developers.
 
+This also made me think about how these rules can affect ICT and the society. Like I stated in artefact 1, AI is becoming increasingly involved in people’s everyday lives, 
+so the rules that are to be given to AI can highly affect many people at the same time. This also reminded me of what we discussed during the workshop about using AI for assessments. 
+If students were allowed to use AI to complete their assessments and claim the work as their own, and everyone followed this rule, assessments would no longer be a reliable way of showing what students actually know. 
+This helped me understand why the Formula of Universal Law asks whether the principle behind an action could be followed by everyone.
 
-Workshop...
-
-Feeling..
+Before reading this article, I mainly thought of Kantianism as a theory that could be used to judge whether a person’s actions were right or wrong. 
+After reading it, I realised that Kantian principles can also be used to think about how AI should behave, even though AI itself does not have moral agency like humans. 
+However, I also feel a bit skeptical about how easily this can be applied to every situation. For example, if one AI is made to hack for a good cause, does that mean all AI should be allowed to hack for a good cause? 
+We also discussed something similar in the workshop when we talked about whether we could implement a good computer worm on all computers to prevent a bad worm. 
+This made me realise that applying one ethical rule to AI can become complicated depending on the situation.
 
 ### Justification on why I chose this artefact
+
+I chose this article because it connects with what we discussed during our workshop and gave me a different way of looking at AI ethics.
+During the workshop, we discussed different ethical theories, but Kantianism was the one that interested me the most because I found it to be a more fair and reasonable way of looking at whether an action is right or wrong. 
+I liked the idea of looking at the principle behind an action and asking whether it could be applied universally. Because of this, I wanted to learn more about Kantianism and how it can be applied to AI.
+
+I also found the article interesting because of the idea that AI does not have moral agency like humans but can still be aligned with Kantian principles. 
+I found this interesting because AI can already make decisions and respond to different situations, but it does not actually understand morality in the same way humans do. 
+It made me wonder how AI can be expected to make ethical decisions if it does not have the same ability to reason or be morally responsible as humans.
+Overall, I chose this artefact because I wanted to learn more about Kantianism and how it can be applied to AI.
 
 ## Artefact 3: 
 
