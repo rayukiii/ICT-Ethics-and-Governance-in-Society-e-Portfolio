@@ -7,7 +7,7 @@ Artefact # | Title | Type | Source
 Artefact 1 | AI Ethics and Transparency | TedEd | [Link](https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber)
 Artefact 2 | Kantianism in AI Ethics | Article | [Link](https://link.springer.com/article/10.1007/s43681-025-00784-8)
 Artefact 3 | AI being shaped for people | Youtube Video | [Link](https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu)
-Artefact 4 | My Workshop Reflection | Workshop Work | [Link]()
+Artefact 4 | My Workshop Reflection | Workshop Work | [Link](https://github.com/rayukiii/ICT-Ethics-and-Governance-in-Society-e-Portfolio/blob/main/portfolio2.md#artefact-4-my-workshop-reflection)
 
 ## Artefact 1: AI Ethics and Transparency
 
