@@ -6,7 +6,7 @@ Artefact # | Title | Type | Source
 ---------- | -------- | -------------- | --------------
 Artefact 1 | AI Ethics and Transparency | TedEd | [Link](https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber)
 Artefact 2 | Kantianism in AI Ethics | Article | [Link](https://link.springer.com/article/10.1007/s43681-025-00784-8)
-Artefact 3 | AI being shaped for people | Youtube Video | [Link](https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu)
+Artefact 3 | AI being shaped for people | Youtube Videos | [Link 1](https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu) / [Link 2](https://www.youtube.com/watch?v=HzYG56HLxbI)
 Artefact 4 | My Workshop Reflection | Workshop Work | [Link](https://github.com/rayukiii/ICT-Ethics-and-Governance-in-Society-e-Portfolio/blob/main/portfolio2.md#artefact-4-my-workshop-reflection)
 
 ## Artefact 1: AI Ethics and Transparency
@@ -46,7 +46,7 @@ Considering an AI being able to provide a prediction about something so personal
 
 Overall, this artefact changed the way I think about my own use of AI. Before watching the video, I viewed AI mostly as a convenient tool that could provide me with answers and advice. 
 After watching it, I realised that I should not automatically trust an AI’s answer simply because it appears accurate. I also learned that I need to understand the limitations of AI and consider how much influence I allow it to have over my personal decisions.
-This artefact is the one that gives me a huge amount of mixed feelings because AI has helped me with many aspects of my everyday life. 
+This artefact gives me a huge amount of mixed feelings because AI has helped me with many aspects of my everyday life.
 However, I also felt slightly concerned after realising how much I rely on AI, especially when it comes to my personal life matters. It made me question whether I sometimes trust AI more than I should.
 
 ## Artefact 2: Kantianism in AI Ethics
@@ -62,10 +62,9 @@ The author focuses on the Categorical Imperative (CI), particularly the Formula 
 
 The artefact helped me understand how the Kantianism theory we discussed in the workshop can also be applied to AI.
 In the workshop, our tutor asked us if it would be considered bad to steal something from a market to give to the poor. 
-According to Kantianism, it is considered "wrong" or "bad" because we used the supermarket as a means to do something good. 
+According to Kantianism, it is considered "wrong" or "bad" because stealing cannot be justified simply because the intention is to do something good. We are still using the supermarket as a means to achieve our own goal.
 We also discussed picking up a money on the floor (nobody nearby) and us thinking about the consequences if someone else picked it up and used it for a different purpose. 
-For us to pick it up and give it to a donation box, according to the discussion in our workshop, it can be considered “right” or “good.”
-And in my perspective, if we applied this as a universal rule of Kantianism, I don’t think it would cause a problem if everyone followed the same principle, so I consider it good.
+For us to pick it up and give it to a donation box, according to the discussion in our workshop, it can be considered “right” or “good.” In my perspective, if we applied this as a universal rule of Kantianism, I don’t think it would cause a problem if everyone followed the same principle, so I consider it good.
 
 This made me reflect on how AI already has rules that affect how it responds to certain situations. 
 For example, when I ask AI about sensitive topics such as crime or harmful situations, it may refuse to give me certain informations or give me a much safer response. 
@@ -118,6 +117,8 @@ However, there can also be risks when AI is given too much responsibility. For e
 This made me reflect on how I personally use AI in my everyday life. I mostly use AI to learn about different things, remember how to cook certain meals and help me with other simple things. 
 Because of this, I understand why AI should be shaped for people because not everyone uses AI for the same purpose. For example, AI could be developed to assist people with disabilities or even help people who are less fortunate. 
 In my perspective, AI should not only be developed for people who can afford the newest technology or for companies that want to make more money, but it should also be made accessible and useful for everyone.
+
+I feel like it is great that AI is being shaped for its people because there are already many AI technologies being made to assist different groups of people, including people with disabilities, the elderly and children. I find this fascinating because it shows how AI can be used to help people in different situations. However, it also feels a bit scary as AI continues to advance because I wonder how much responsibility we will eventually give to AI and how much control it should have over decisions that affect people.
 
 ### Justification on why I chose this artefact
 I chose these videos because they were made by UNESCO, and I like how they discuss AI ethics. I also found it interesting that UNESCO has recommendations about the ethics of AI and that they have been discussing AI ethics since 2020 or even earlier. 
@@ -188,9 +189,9 @@ Hofweber, T 2024, *Can AI predict someone's breakup?*, video, TED-Ed, viewed 12 
 
 Sanwoolu, OD 2025, ‘Kantian deontology for AI: alignment without moral agency’, *AI and Ethics*, vol. 5, no. 5, pp. 5425–5437. DOI: 10.1007/s43681-025-00784-8
 
-UNESCO 2020, *Why is ethics crucial in the development of AI?*, video, 11 June, viewed 12 August 2026, https://www.youtube.com/watch?v=HzYG56HLxbI
+UNESCO 2020, *Why is ethics crucial in the development of AI?*, video, 29 June, viewed 10 August 2026, https://www.youtube.com/watch?v=HzYG56HLxbI
 
-UNESCO 2026, *Shaping AI for the people*, video, 1 July, viewed 11 August 2026, https://www.youtube.com/watch?v=OOMlSOtcVEM
+UNESCO 2026, *Shaping AI for the people*, video, 1 July, viewed 10 August 2026, https://www.youtube.com/watch?v=OOMlSOtcVEM
 
 > [!IMPORTANT]
 > **AI use policy:** 
