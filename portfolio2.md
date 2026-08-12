@@ -11,6 +11,7 @@ Artefact 4 | My Workshop Reflection | Workshop Work | [Link]()
 
 ## Artefact 1: AI Ethics and Transparency
 
+<img width="1880" height="895" alt="image" src="https://github.com/user-attachments/assets/08d07f5a-09e3-40e4-a704-6ccdbc0923f4" />
 https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber
 
 ### Summary of the artefact
@@ -50,6 +51,7 @@ However, I also felt slightly concerned after realising how much I rely on AI, e
 
 ## Artefact 2: Kantianism in AI Ethics
 
+<img width="1891" height="982" alt="image" src="https://github.com/user-attachments/assets/a3b0d516-d536-44b1-862e-e5ab9beeaddd" />
 https://link.springer.com/article/10.1007/s43681-025-00784-8
 
 ### Summary of the artefact
@@ -96,6 +98,7 @@ Overall, I chose this artefact because I wanted to learn more about Kantianism a
 
 ## Artefact 3: AI being shaped for people
 
+<img width="1337" height="975" alt="image" src="https://github.com/user-attachments/assets/32a41237-a94e-47af-a25b-e52ab76e1371" />
 https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu
 
 ### Summary of the artefact
@@ -135,6 +138,8 @@ Workshop Week | Week 4
 **Date** | 4 August, 2026 
 **Tutor** | Harita Chugh 
 **Campus** | Melbourne 
+
+<img width="1337" height="975" alt="image" src="https://github.com/user-attachments/assets/5afff6b1-e5a0-4d88-88a4-521e6d6a4d8d" />
 
 ### Summary of the artefact
 The photo attached was taken after our workshop ended as we always prefer focusing on the tutorial before taking any photos. Many of the artefacts I chose for this e-portfolio were inspired by this week’s lecture or PowerPoint discussions. 
