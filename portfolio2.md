@@ -139,7 +139,7 @@ Workshop Week | Week 4
 **Tutor** | Harita Chugh 
 **Campus** | Melbourne 
 
-<img width="1337" height="975" alt="image" src="https://github.com/user-attachments/assets/5afff6b1-e5a0-4d88-88a4-521e6d6a4d8d" />
+<img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/fa3d0d2a-300f-4514-b423-9f945bee3600" />
 
 ### Summary of the artefact
 The photo attached was taken after our workshop ended as we always prefer focusing on the tutorial before taking any photos. Many of the artefacts I chose for this e-portfolio were inspired by this week’s lecture or PowerPoint discussions. 
