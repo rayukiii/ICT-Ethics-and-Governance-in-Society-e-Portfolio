@@ -40,7 +40,7 @@ It made me realise that trusting Al also means thinking about how much personal 
 
 I chose this artefact because it feels connected with both our workshop discussions and my personal experience with AI. 
 The lesson really piqued my interest because relationships involve personal decisions that people normally make based on their own experiences, emotions and judgement. 
-Seeing an AI provide a prediction about something so personal made me question how much influence I should allow AI to have over my own decisions, considering how frequently I use AI for my life and relationship decisions.
+Considering an AI being able to provide a prediction about something so personal made me question how much influence I should allow AI to have over my own decisions, considering how frequently I use AI for my life and relationship decisions.
 
 Overall, this artefact changed the way I think about my own use of AI. Before watching the video, I viewed AI mostly as a convenient tool that could provide me with answers and advice. 
 After watching it, I realised that I should not automatically trust an AI’s answer simply because it appears accurate. I also learned that I need to understand the limitations of AI and consider how much influence I allow it to have over my personal decisions.
