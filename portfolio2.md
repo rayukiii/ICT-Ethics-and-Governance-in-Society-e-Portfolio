@@ -184,7 +184,7 @@ Overall, I chose this artefact because it made me more aware of how cybersecurit
 ## References
 <!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
 
-Hofweber, T 2024, *Would you use a machine that predicts your future?*, video, 21 May, viewed 7 August 2026, https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber
+Hofweber, T 2024, *Can AI predict someone's breakup?*, video, TED-Ed, viewed 12 August 2026, https://ed.ted.com/lessons/would-you-use-a-machine-that-predicts-your-future-thomas-hofweber
 
 Sanwoolu, OD 2025, ‘Kantian deontology for AI: alignment without moral agency’, *AI and Ethics*, vol. 5, no. 5, pp. 5425–5437. DOI: 10.1007/s43681-025-00784-8
 
