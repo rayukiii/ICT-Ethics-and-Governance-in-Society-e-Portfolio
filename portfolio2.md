@@ -96,7 +96,7 @@ I found this interesting because AI can already make decisions and respond to di
 It made me wonder how AI can be expected to make ethical decisions if it does not have the same ability to reason or be morally responsible as humans.
 Overall, I chose this artefact because I wanted to learn more about Kantianism and how it can be applied to AI.
 
-## Artefact 3: AI being shaped for people
+## Artefact 3: Shaping AI for the people
 
 <img width="1337" height="975" alt="image" src="https://github.com/user-attachments/assets/32a41237-a94e-47af-a25b-e52ab76e1371" />
 https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu
