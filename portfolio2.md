@@ -65,7 +65,12 @@ We also discussed picking up a money on the floor (nobody nearby) and us thinkin
 For us to pick it up and give it to a donation box, According to Kantianism, it can be considered "right" or "good".
 And in my perspective if we applied this with the universal rule of Kantianism, It wouldn't cause any chaos universally so I consider it good.
 
-This made me reflect on... 5mins
+This made me reflect on how AI already has rules that affect how it responds to certain situations. 
+For example, when I ask AI about sensitive topics such as crime or harmful situations, it may refuse to give me certain informations or give me a much safer response. 
+I cannot say that AI is actually applying Kant’s Categorical Imperative or Formula of Universal Law when it does this, 
+but it made me think about how AI can already be designed with certain rules for how it should respond to different type of situations. 
+The article made me realise that an AI following a certain restrictions or rules does not necessarily mean that it is following an ethical theory like Kantianism.
+
 
 Workshop...
 
