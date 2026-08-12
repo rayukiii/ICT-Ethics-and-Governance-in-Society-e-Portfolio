@@ -94,11 +94,77 @@ I found this interesting because AI can already make decisions and respond to di
 It made me wonder how AI can be expected to make ethical decisions if it does not have the same ability to reason or be morally responsible as humans.
 Overall, I chose this artefact because I wanted to learn more about Kantianism and how it can be applied to AI.
 
-## Artefact 3: 
+## Artefact 3: AI being shaped for people
+
+https://youtu.be/OOMlSOtcVEM?si=VSawf9n9oDZuQMGu
 
 ### Summary of the artefact
+This YouTube video by UNESCO (2026) talks about how AI is being shaped for people and how AI is becoming a major part of society.
+The video discusses how AI can be used in different areas of society such as education, healthcare, science and everyday life.
+It made me realise that AI is not only about how advanced the technology can become, but also about how it should be developed to benefit “us”, the people who create and develop it.
+In my perspective, every human being is a part of AI development because data comes from people all over the world, so I also believe that it should be ethically made for the benefit of everyone.
+
+During 2020, UNESCO also published another YouTube video called “Why is ethics crucial in the development of AI?”, which talks about the importance of ethics when developing AI.
+One example that they gave that stood out to me was an automated car travelling very fast towards a crossing where there was an old woman and a child.
+The car would have to make a decision about what to do in a situation where it may not be able to avoid harming everyone.
+This made me realise that AI can sometimes be placed in situations where there is no perfect answer, and the decision made by the AI could directly affect people’s lives.
+
+The artefact helped me understand that AI should not only be developed based on what it can do, but also on how it can affect people. It is widely known that AI has many benefits because it can help people complete tasks faster, provide information and support different areas such as healthcare and education (UNESCO, 2020). 
+However, there can also be risks when AI is given too much responsibility. For example, if an automated car has to make a decision in an emergency situation, the decision made by the AI could have serious consequences for the people involved.
+
+This made me reflect on how I personally use AI in my everyday life. I mostly use AI to learn about different things, remember how to cook certain meals and help me with other simple things. 
+Because of this, I understand why AI should be shaped for people because not everyone uses AI for the same purpose. For example, AI could be developed to assist people with disabilities or even help people who are less fortunate. 
+In my perspective, AI should not only be developed for people who can afford the newest technology or for companies that want to make more money, but it should also be made accessible and useful for everyone.
 
 ### Justification on why I chose this artefact
+I chose these videos because they were made by UNESCO, and I like how they discuss AI ethics. I also found it interesting that UNESCO has recommendations about the ethics of AI and that they have been discussing AI ethics since 2020 or even earlier. 
+This made me interested in learning more about how organisations such as UNESCO think about the ethical development of AI and how it should be used.
+
+I specifically chose these videos because they made me wonder more about how AI technologies are actually made and what decisions are made when developing them. 
+For example, I started thinking about AI drones that may not be able to correctly identify whether someone is a civilian or not, which can become a serious ethical issue. 
+Although this was not the situation discussed in the videos, it made me wonder what UNESCO thinks about other AI technologies that can have serious consequences for people and whether AI is really being shaped for the people as the video suggests. 
+I found this interesting because AI can be created to help people, but it can also be created for purposes that could potentially harm people.
+
+## Artefact 4: My Workshop Reflection
+
+### Workshop Details
+
+Workshop Week | Week 4
+------|-------------
+**Day** | Tuesday 
+**Date** | 4 August, 2026 
+**Tutor** | Harita Chugh 
+**Campus** | Melbourne 
+
+### Summary of the artefact
+The photo attached was taken after our workshop ended as we always prefer focusing on the tutorial before taking any photos. Many of the artefacts I chose for this e-portfolio were inspired by this week’s lecture or PowerPoint discussions. 
+One topic that particularly interested me was the discussion about my tutor talking about a ransomware attack that happened to a university she was teaching at, where their LMS was attacked and a ransom was asked. However, she told us that the university didn’t pay but used their backup for recovery.
+
+This really became a highlight for me because it reminded me of the recent cyberattack on universities during May, where attackers attempted to extort money from educational institutions through ransomware and data theft.
+This was something that many of my friends and I were discussing, especially because one of my friends was studying at a university that was affected. We were wondering whether universities would pay the ransom demanded by the attackers. 
+Many of us thought that the universities would pay the ransom as it would be the easiest solution. However, up until now, I still don’t know what actually happened as I only heard discussions about possible money agreements.
+
+I found this particularly interesting because it demonstrated the importance of having reliable backup systems and cybersecurity measures in educational institutions. 
+It also made me realise how dependent universities and students have become on digital systems, and how a cyberattack can significantly disrupt learning when these systems become unavailable.
+The discussion also made me think about how students can be affected by cyberattacks even when they are not involved in the attack themselves. 
+Hearing about my friend’s university made the topic feel more realistic to me because I could imagine how difficult it would be if students suddenly could not access their learning materials, applications or other university systems. 
+It made me realise that cybersecurity is not only a technical issue for universities, but something that can directly affect students and their education.
+
+I also found it interesting that the university from my tutor’s experience was able to recover without paying the ransom because they had a backup. 
+Before this discussion, I would have thought that paying the ransom would probably be the easiest way to get everything back. 
+After hearing about the university using its backup instead, I realised that having a reliable backup can be very important when dealing with a ransomware attack. 
+I feel positive about this because it shows that preparation can help organisations recover from serious cyberattacks, but I also feel concerned because not every organisation may be prepared enough to deal with one.
+
+### Justification on why I chose this artefact
+I chose this artefact because the ransomware discussion was one of the topics from the workshop that stayed with me the most. 
+I found it interesting because it was not only about a cyberattack itself, but also about what a university should do after an attack happens. 
+When my tutor told us that the university did not pay the ransom and instead used its backup to recover its information, it made me think about how important it is for organisations to have a plan before something goes wrong.
+
+I also chose this artefact because I could relate to the topic through my friend’s experience with their university being affected by a cyberattack. 
+Before the workshop, I mostly thought of ransomware as something that would simply require the organisation to pay money to get their systems back. 
+After our discussion, I realised that having proper backups and cybersecurity measures can give organisations another option instead of simply paying the attackers. 
+I also became more interested in cybersecurity because I have considered studying a major related to cybersecurity in the future, so learning about how ransomware can affect universities made the topic even more interesting to me.
+Overall, I chose this artefact because it made me more aware of how cybersecurity can affect universities, students and the way education depends on digital systems.
 
 <!--
 AI partner , transparency
@@ -110,6 +176,11 @@ AI in theory :
 4. if you pick up a bag full of pen and sold it would it considered bad?
 5. if you dated an ai and the owners asked to use your data publicly is it good or bad?
 
+its so hard to write formally and informally while out of time 
+im having fun without a limit ! O>O
+
+> last artefact i only have a few minutes left should write it similar to ep1 and then work on workshop i alr did before hand while i wasnt busyyy
+here and theree arghhhhh so tiring T-T
 
 Scenarios:
 opt in and out of advertisements
