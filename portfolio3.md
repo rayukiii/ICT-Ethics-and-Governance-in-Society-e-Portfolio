@@ -7,7 +7,7 @@ Artefact # | Title | Type | Source
 Artefact 1 | What is Intellectual Property? | Youtube Video | [Link](https://www.youtube.com/watch?v=AzQzSUZsT_k&t=15s)
 Artefact 2 | AI companies using Australian content to train AI | News Article | [Link](https://www.abc.net.au/news/2026-07-18/ai-music-copyright-training-office-of-ai/106901562)
 Artefact 3 | Copyright and AI training around the world | Peer-viewed research | [Link](https://cqu.primo.exlibrisgroup.com/permalink/61CQU_INST/1eoclbh/cdi_springer_journals_10_1007_s40319_025_01569_6)
-Artefact 4 | My Workshop Reflection | Workshop | [Link]()
+Artefact 4 | My Workshop Reflection | Workshop | [Link](https://github.com/rayukiii/ICT-Ethics-and-Governance-in-Society-e-Portfolio/blob/main/portfolio3.md#artefact-4-my-workshop-reflection)
 
 ## Artefact 1: What is Intellectual Property?  
 
