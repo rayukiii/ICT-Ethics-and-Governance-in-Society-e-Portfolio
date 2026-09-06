@@ -43,15 +43,15 @@ https://www.abc.net.au/news/2026-07-18/ai-music-copyright-training-office-of-ai/
 This article from ABC News, written by Worthington and Marchese (2026), reports that Australian artists have discovered their music being used in datasets to train overseas AI models without their consent or compensation. 
 The article also discusses the Australian Government's response, including plans to establish an Office of AI to develop standards around artificial intelligence. 
 However, experts say there are still many unanswered questions about how AI companies will disclose the data they use and how creators can be paid fairly (Worthington & Marchese 2026).
-I was surprised to learn that many Australian artists I follow have become victims of this situation. 
-It made me wonder how other countries are also handling this issue. I also found it interesting that Playlunch, a Melbourne-based band, had their music included in these AI training datasets. 
-Since I live in Melbourne, this made the issue feel more relevant to me because it showed that AI and intellectual property can affect local artists as well, 
-not just major artists and world-wide popular artists. 
+
 I learned from this article that AI can create new problems for intellectual property because creators may not always know when their work is being used to train AI models. 
 It also made me realize that governments and technology companies will need to find a way to allow AI to develop while still protecting the rights of creators.
 
 ### Justification on why I chose this artefact
-I chose this news article because it connects directly to our workshop discussion about intellectual property, copyright and AI. 
+I chose this news article because it connects directly to our workshop discussion about intellectual property, copyright and AI. I was surprised to learn that many Australian artists I follow have become victims of this situation. 
+It made me wonder how other countries are also handling this issue. I also found it interesting that Playlunch, a Melbourne-based band, had their music included in these AI training datasets. 
+Since I live in Melbourne, this made the issue feel more relevant to me because it showed that AI and intellectual property can affect local artists as well, 
+not just major artists and world-wide popular artists. 
 During the workshop, we discussed how creators have rights over their work, including how and where it can be used. 
 we also discussed the recent news about Sony and Warner Music suing Anthropic over the alleged use of copyrighted music to train Claude, 
 which showed me how these intellectual property issues are already affecting the music industry.
