@@ -47,7 +47,9 @@ This YouTube video by TEDx Talks features David Shanks, who was New Zealand's Ch
 He explained the difficulty of balancing freedom of expression with the responsibility to protect society from harmful content (TEDx Talks 2019). 
 One example discussed in the video is the livestream of the Christchurch mosque attack in 2019, which showed me that some forms of content can cause serious harm when they are allowed to spread freely. 
 He also stated that censorship should not simply be used because authorities disagree with something, and that freedom of expression should be protected whenever possible.
-However, he also argues that censorship may become necessary when contents were allowed to remain unrestricted which can cause or creates a serious risk of harm.
+However, he also argues that censorship may become necessary when content is allowed to remain unrestricted and creates a serious risk of harm. 
+One example is the Christchurch mosque attack livestream in New Zealand, which we also discussed in class. 
+It showed me that government censorship can sometimes be necessary when online content creates a serious risk of harm.
 
 In contrast, another video by TEDx Talks features Olivia Orlewicz discussing her own experience with youth censorship. When she was in 6th grade, she prepared a ted talk about veganism but was not allowed to present it to her classmates because the topic was considered as too mature (TEDx Talks 2020). What I found interesting was that the censorship she experienced was not about protecting young people from obviously harmful or explicit material. Instead, as a view, fact or idea that was withheld from students because adults decided that it was unsuitable for them. Orlewicz argues that allowing young people to discuss difficult subjects can create opportunities for educational discussion rather than simply preventing them from hearing different perspectives.
 
