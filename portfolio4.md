@@ -54,19 +54,12 @@ In contrast, another video by TEDx Talks features Olivia Orlewicz discussing her
 
 ### Justification on why I chose this artefact
 I chose these videos because I found both of them fascinating, and they further developed my curiosity after learning what censorship is and from the many things I learned during the workshop. 
-I became more curious about who should actually have the responsibility to decide when something should be censored. <!-- Overview -->
-
-During the workshop, we went through multiple scenarios about who should be responsible for censorship. One of them involved roleplaying how censorship can be implemented as a government employee, 
-as a CEO of a private company, and even as a member of society such as ourselves. This made me realise that deciding what should be restricted is not always very simple. <!-- Workshop -->
-
-David Shanks' video helped me understand that censorship can sometimes be necessary when content creates a serious risk of harm, but it should not simply be used 
-because someone in authority disagrees with an idea. This made me think more carefully about how much responsibility governments and other authorities should have when deciding what people can see or share. <!-- main video -->
-
-On the other hand, Olivia Orlewicz's video gave me another perspective because the censorship she experienced happened in a school rather than through a government or online platform. 
+I became more curious about who should actually have the responsibility to decide when something should be censored. <!-- Overview --> During the workshop, we went through multiple scenarios about who should be responsible for censorship. One of them involved roleplaying how censorship can be implemented as a government employee, 
+as a CEO of a private company, and even as a member of society such as ourselves. This made me realise that deciding what should be restricted is not always very simple. <!-- Workshop -->David Shanks' video helped me understand that censorship can sometimes be necessary when content creates a serious risk of harm, but it should not simply be used 
+because someone in authority disagrees with an idea. This made me think more carefully about how much responsibility governments and other authorities should have when deciding what people can see or share. <!-- main video -->On the other hand, Olivia Orlewicz's video gave me another perspective because the censorship she experienced happened in a school rather than through a government or online platform. 
 I found it interesting that preventing her presentation may have stopped students from having an educational discussion about a difficult topic. <!-- olivia's -->
 Comparing the two videos made me realise that the reason behind censorship is important. 
 Protecting people from serious harm is different from preventing someone from sharing topics for educational purposes or expressing opinions simply because the topic may be uncomfortable for the audience.
-
 Overall, these artefacts made me think that responsibility for censorship should not only be about who has the power to restrict content, but also about whether there is a reasonable reason for restricting it in the first place. Additionally, I believe that we also have our own shared responsibility when it comes to freedom of speech and censorship. <!-- conclusion / self reflect -->
 
 ## Artefact 3: What is Artefact 3? 
