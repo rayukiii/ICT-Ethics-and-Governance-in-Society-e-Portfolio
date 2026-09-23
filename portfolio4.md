@@ -1,4 +1,3 @@
-
 # e-Portfolio 4 – Censorship & Government 
 This e-portfolio explores a collection of artefacts on what I have learned about **Censorship & Government** (AI) in my 9th week in the unit.
 
@@ -6,13 +5,13 @@ This e-portfolio explores a collection of artefacts on what I have learned about
 Artefact # | Title | Type | Source
 ---------- | -------- | -------------- | --------------
 Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link](https://www.britannica.com/topic/censorship)
-Artefact 2 |  | News Article | [Link]()
+Artefact 2 | Who is responsible, and when is censorship necessary? | Youtube Video | [Link 1](https://www.youtube.com/watch?v=NhXiDPKnYNE) [Link 2](https://www.youtube.com/watch?v=XZJnJjOsJUI)
 Artefact 3 |  | Peer-viewed research | [Link]()
 Artefact 4 |  | [Link]()
 
 ## Artefact 1: What is Censorship? 
 
-<img width="1913" height="1141" alt="image" src="https://github.com/user-attachments/assets/6633dd40-2e5f-4b1f-a0da-49e669397f11" />
+<img width="1611" height="891" alt="image" src="https://github.com/user-attachments/assets/8f263daf-b8b8-4ca7-afbd-52831a91391e" />
 https://www.britannica.com/topic/censorship
 
 ### Summary of the artefact
@@ -35,8 +34,8 @@ It made me more aware that censorship can affect what people are allowed to see,
 ## Artefact 2: Who is responsible, and when is censorship necessary? 
 
 <p align="center">
-  <img width="39%" alt="image" src="https://github.com/user-attachments/assets/6ab2103f-148e-4cac-93fd-efa192304f2d" />
-  <img width="39%" alt="image" src="https://github.com/user-attachments/assets/b40684eb-c497-454b-9303-e01800d9c38b" />
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/0b75f42d-c840-4875-a1ce-f31b89199f1f" />
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/7e28ce58-b27d-418d-a2a3-04436466ffb3" />
 </p>
 
 https://www.youtube.com/watch?v=NhXiDPKnYNE [MAIN VIDEO - Artefact 2:A]
@@ -65,6 +64,8 @@ Protecting people from serious harm is different from preventing someone from sh
 Overall, these artefacts made me think that responsibility for censorship should not only be about who has the power to restrict content, but also about whether there is a reasonable reason for restricting it in the first place. Additionally, I believe that we also have our own shared responsibility when it comes to freedom of speech and censorship. <!-- conclusion / self reflect -->
 
 ## Artefact 3: What is Artefact 3? 
+
+https://cqu.primo.exlibrisgroup.com/permalink/61CQU_INST/1kp0k1c/cdi_crossref_primary_10_1017_S0008197322000484
 
 ### Summary of the artefact
 This journal article by 
