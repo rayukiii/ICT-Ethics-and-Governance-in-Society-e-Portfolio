@@ -28,7 +28,7 @@ I chose this artefact because Encyclopaedia Britannica does not only explain wha
 During the workshop, I learnt that censorship existed even before the Internet was invented, which made me curious about how censorship worked in the past. 
 Before this, the main form of censorship I knew was something more visible, such as television and film classifications. 
 However, after the workshop and reading this article, I learnt that censorship can come in many different forms and can involve controlling or restricting people’s access to information, speech and ideas. Overall, this artefact helped me understand that censorship is much broader than simply blocking explicit content. 
-It made me more aware that censorship can affect what people are allowed to see, hear or express, which also made me think more carefully about who should have the responsibility to decide what content should be restricted similarly and who should take responsibility for censorship.
+It made me more aware that censorship can affect what people are allowed to see, hear or express, which also made me think more carefully about who should have the responsibility to decide what content should be restricted and who should take responsibility for censorship.
 
 
 ## Artefact 2: Who is responsible, and when is censorship necessary? 
@@ -65,15 +65,28 @@ Comparing the two videos made me realise that the reason behind censorship is im
 Protecting people from serious harm is different from preventing someone from sharing topics for educational purposes or expressing opinions simply because the topic may be uncomfortable for the audience.
 Overall, these artefacts made me think that responsibility for censorship should not only be about who has the power to restrict content, but also about whether there is a reasonable reason for restricting it in the first place. Additionally, I believe that we also have our own shared responsibility when it comes to freedom of speech and censorship. <!-- conclusion / self reflect -->
 
-## Artefact 3: What is Artefact 3? 
+## Artefact 3: 
 
 https://cqu.primo.exlibrisgroup.com/permalink/61CQU_INST/1kp0k1c/cdi_crossref_primary_10_1017_S0008197322000484
 
 ### Summary of the artefact
-This journal article by 
+This journal article by Theil (2022) discusses how censorship does not only come from governments, but can also come from private social media companies. 
+The article explains that platforms have a large amount of control over what users are allowed to post, share or access online. 
+Theil (2022) argues that private platforms can affect freedom of expression because they are able to set their own rules and make decisions about who can continue using their services.
+One example discussed in the article was when Alex Jones was banned from several major social media platforms after repeatedly violating their terms and conditions. 
+The article also made me realise that social media companies can hold a huge amount of power because many people depend on these platforms to communicate and express their opinions. 
+I found this very interesting because although these companies have the power and ability to restrict users through their platforms, it also made me question why so much potentially harmful content can still remain online.
+
 
 ### Justification on why I chose this artefact
-I chose this artefact because 
+I chose this journal article because it challenged how I originally understood censorship as a student researching this topic. 
+After learning about government censorship in the workshop and in my previous artefacts, I became curious about how censorship can also be carried out by private companies. 
+I searched for “censorship social media” and found this article, which connected closely to our workshop discussion about the control social media companies and other technology companies can have online. During the workshop, we discussed how platforms, internet providers and companies such as Google, Facebook, GoDaddy and Cloudflare can influence what content remains available online.
+Before this, I had always assumed censorship was mainly something governments did, so it was surprising to learn that private companies can also restrict speech through their own platforms. 
+I also started to understand how difficult it can be for these companies to monitor and moderate the huge amount of content being posted online, especially when privacy is also an important concern. As information continues to grow in the modern world, managing online content may become even more difficult.
+The Alex Jones case especially stood out to me because being banned from several major platforms showed how much power private companies can have over a person’s ability to communicate with a large audience. This made me think more about whether private companies should have the same level of responsibility as governments when restricting content. I understand that companies need rules to prevent harmful or illegal content, but I think one of the biggest ethical problems is how to protect people from exposure to harmful content. 
+Overall, this artefact helped me understand that censorship is not only about government control. Private companies can also have a major influence on freedom of expression especially when millions of people rely on their platforms every day. It also made me wonder whether laws should treat powerful social media platforms differently from smaller companies, since not every company has the same level of control over public discussion.
+
 
 ## Artefact 4: My Workshop Reflection
 
