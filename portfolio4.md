@@ -32,7 +32,7 @@ However, after the workshop and reading this article, I learnt that censorship c
 It made me more aware that censorship can affect what people are allowed to see, hear or express, which also made me think more carefully about who should have the responsibility to decide what content should be restricted similarly and who should take responsibility for censorship.
 
 
-## Artefact 2:
+## Artefact 2: What is Artefact 2? :3 hehe
 
 
 
@@ -43,7 +43,7 @@ This article from ABC News, written by
 ### Justification on why I chose this artefact
 I chose this news article because 
 
-## Artefact 3: 
+## Artefact 3: What is Artefact 3? 
 
 ### Summary of the artefact
 This journal article by 
