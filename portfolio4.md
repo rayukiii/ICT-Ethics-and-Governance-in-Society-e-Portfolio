@@ -32,16 +32,41 @@ However, after the workshop and reading this article, I learnt that censorship c
 It made me more aware that censorship can affect what people are allowed to see, hear or express, which also made me think more carefully about who should have the responsibility to decide what content should be restricted similarly and who should take responsibility for censorship.
 
 
-## Artefact 2: What is Artefact 2? :3 hehe
+## Artefact 2: Who is responsible, and when is censorship necessary? 
 
+<p align="center">
+  <img width="39%" alt="image" src="https://github.com/user-attachments/assets/6ab2103f-148e-4cac-93fd-efa192304f2d" />
+  <img width="39%" alt="image" src="https://github.com/user-attachments/assets/b40684eb-c497-454b-9303-e01800d9c38b" />
+</p>
 
-
+https://www.youtube.com/watch?v=NhXiDPKnYNE [MAIN VIDEO - Artefact 2:A]
+https://www.youtube.com/watch?v=XZJnJjOsJUI [EXTRA VIDEO - Artefact 2:B]
 
 ### Summary of the artefact
-This article from ABC News, written by 
+This YouTube video by TEDx Talks features David Shanks, who was New Zealand's Chief Censor, discussing when censorship may become necessary.
+He explained the difficulty of balancing freedom of expression with the responsibility to protect society from harmful content (TEDx Talks 2019). 
+One example discussed in the video is the livestream of the Christchurch mosque attack in 2019, which showed me that some forms of content can cause serious harm when they are allowed to spread freely. 
+He also stated that censorship should not simply be used because authorities disagree with something, and that freedom of expression should be protected whenever possible.
+However, he also argues that censorship may become necessary when contents were allowed to remain unrestricted which can cause or creates a serious risk of harm.
+
+In contrast, another video by TEDx Talks features Olivia Orlewicz discussing her own experience with youth censorship. When she was in 6th grade, she prepared a ted talk about veganism but was not allowed to present it to her classmates because the topic was considered as too mature (TEDx Talks 2020). What I found interesting was that the censorship she experienced was not about protecting young people from obviously harmful or explicit material. Instead, as a view, fact or idea that was withheld from students because adults decided that it was unsuitable for them. Orlewicz argues that allowing young people to discuss difficult subjects can create opportunities for educational discussion rather than simply preventing them from hearing different perspectives.
 
 ### Justification on why I chose this artefact
-I chose this news article because 
+I chose these videos because I found both of them fascinating, and they further developed my curiosity after learning what censorship is and from the many things I learned during the workshop. 
+I became more curious about who should actually have the responsibility to decide when something should be censored. <!-- Overview -->
+
+During the workshop, we went through multiple scenarios about who should be responsible for censorship. One of them involved roleplaying how censorship can be implemented as a government employee, 
+as a CEO of a private company, and even as a member of society such as ourselves. This made me realise that deciding what should be restricted is not always very simple. <!-- Workshop -->
+
+David Shanks' video helped me understand that censorship can sometimes be necessary when content creates a serious risk of harm, but it should not simply be used 
+because someone in authority disagrees with an idea. This made me think more carefully about how much responsibility governments and other authorities should have when deciding what people can see or share. <!-- main video -->
+
+On the other hand, Olivia Orlewicz's video gave me another perspective because the censorship she experienced happened in a school rather than through a government or online platform. 
+I found it interesting that preventing her presentation may have stopped students from having an educational discussion about a difficult topic. <!-- olivia's -->
+Comparing the two videos made me realise that the reason behind censorship is important. 
+Protecting people from serious harm is different from preventing someone from sharing topics for educational purposes or expressing opinions simply because the topic may be uncomfortable for the audience.
+
+Overall, these artefacts made me think that responsibility for censorship should not only be about who has the power to restrict content, but also about whether there is a reasonable reason for restricting it in the first place. Additionally, I believe that we also have our own shared responsibility when it comes to freedom of speech and censorship. <!-- conclusion / self reflect -->
 
 ## Artefact 3: What is Artefact 3? 
 
