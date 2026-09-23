@@ -10,7 +10,7 @@ Artefact 2 |  | News Article | [Link]()
 Artefact 3 |  | Peer-viewed research | [Link]()
 Artefact 4 |  | [Link]()
 
-## Artefact 1:  
+## Artefact 1: What is Artefact 1?
 
 <img width="1913" height="1141" alt="image" src="https://github.com/user-attachments/assets/6633dd40-2e5f-4b1f-a0da-49e669397f11" />
 https://www.britannica.com/topic/censorship
