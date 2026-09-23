@@ -40,6 +40,7 @@ It made me more aware that censorship can affect what people are allowed to see,
 </p>
 
 https://www.youtube.com/watch?v=NhXiDPKnYNE [MAIN VIDEO - Artefact 2:A]
+
 https://www.youtube.com/watch?v=XZJnJjOsJUI [EXTRA VIDEO - Artefact 2:B]
 
 ### Summary of the artefact
