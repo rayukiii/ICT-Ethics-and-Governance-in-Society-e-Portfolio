@@ -4,8 +4,8 @@ This e-portfolio explores a collection of artefacts on what I have learned about
 ## Overview of Artefacts
 Artefact # | Title | Type | Source
 ---------- | -------- | -------------- | --------------
-Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link 1](https://www.britannica.com/topic/censorship) [Link 2](https://about.fb.com/news/2019/03/technical-update-on-new-zealand/)
-Artefact 2 | Who is responsible, and when is censorship necessary? | Youtube Video | [Link 1](https://www.youtube.com/watch?v=NhXiDPKnYNE) [Link 2](https://www.youtube.com/watch?v=XZJnJjOsJUI)
+Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link 1](https://www.britannica.com/topic/censorship) 
+Artefact 2 | Who is responsible, and when is censorship necessary? | Youtube Video | [Link 1](https://www.youtube.com/watch?v=NhXiDPKnYNE) [Link 2](https://www.youtube.com/watch?v=XZJnJjOsJUI) [Link 3](https://about.fb.com/news/2019/03/technical-update-on-new-zealand/)
 Artefact 3 | Balancing censorship and freedom of expression in Australia  | Articles | [Link 1](https://humanrights.gov.au/about-us/news/countering-disinformation-online) [Link 2](https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate)
 Artefact 4 | My Workshop Reflection | [Link](https://github.com/rayukiii/ICT-Ethics-and-Governance-in-Society-e-Portfolio/blob/main/portfolio4.md#artefact-4-my-workshop-reflection)
 
@@ -13,7 +13,6 @@ Artefact 4 | My Workshop Reflection | [Link](https://github.com/rayukiii/ICT-Eth
 
 <img width="1611" height="891" alt="image" src="https://github.com/user-attachments/assets/8f263daf-b8b8-4ca7-afbd-52831a91391e" />
 https://www.britannica.com/topic/censorship
-https://about.fb.com/news/2019/03/technical-update-on-new-zealand/
 
 ### Summary of the artefact
 This article from Encyclopaedia Britannica, written by Anastaplo (2026), explains what censorship is, its history, and how it relates to freedom of speech and government authority. 
@@ -42,6 +41,7 @@ It made me more aware that censorship can affect what people are allowed to see,
 https://www.youtube.com/watch?v=NhXiDPKnYNE [MAIN VIDEO - Artefact 2:A]
 
 https://www.youtube.com/watch?v=XZJnJjOsJUI [EXTRA VIDEO - Artefact 2:B]
+https://about.fb.com/news/2019/03/technical-update-on-new-zealand/ [EXTRA INFO - Artefact 3:C]
 
 ### Summary of the artefact
 This YouTube video by TEDx Talks features David Shanks, who was New Zealand's Chief Censor, discussing when censorship may become necessary. 
