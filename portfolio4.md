@@ -7,7 +7,7 @@ Artefact # | Title | Type | Source
 Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link 1](https://www.britannica.com/topic/censorship) [Link 2](https://about.fb.com/news/2019/03/technical-update-on-new-zealand/)
 Artefact 2 | Who is responsible, and when is censorship necessary? | Youtube Video | [Link 1](https://www.youtube.com/watch?v=NhXiDPKnYNE) [Link 2](https://www.youtube.com/watch?v=XZJnJjOsJUI)
 Artefact 3 | Balancing censorship and freedom of expression in Australia  | Articles | [Link 1](https://humanrights.gov.au/about-us/news/countering-disinformation-online) [Link 2](https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate)
-Artefact 4 | My Workshop Reflection | [Link]()
+Artefact 4 | My Workshop Reflection | [Link](https://github.com/rayukiii/ICT-Ethics-and-Governance-in-Society-e-Portfolio/blob/main/portfolio4.md#artefact-4-my-workshop-reflection)
 
 ## Artefact 1: What is Censorship? 
 
