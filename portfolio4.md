@@ -152,7 +152,7 @@ Anastaplo, G 2026, *Censorship*, *Encyclopaedia Britannica*, viewed 23 September
 
 Australian Human Rights Commission (AHRC) 2023, *Countering disinformation online*, viewed 23 September 2026, https://humanrights.gov.au/about-us/news/countering-disinformation-online
 
-Shanks, D 2019, *When censorship becomes necessary | David Shanks | TEDxChristchurch*, video, 1 October, viewed 23 September 2026, https://www.youtube.com/watch?v=NhXiDPKnYNE
+CQUniversity 2026, ‘Week 9: Censorship and Government’, PowerPoint presentation, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 15 September 2026, http://moodle.cqu.edu.au/
 
 eSafety Commissioner 2024, *Report reveals the extent of deep cuts to safety staff and gaps in Twitter/X’s measures to tackle online hate*, media release, 11 January, viewed 23 September 2026, https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate
 
@@ -162,6 +162,7 @@ CQUniversity 2026, ‘Week 9: Censorship and Government’, PowerPoint presentat
 
 Rosen, G 2019, *A further update on New Zealand terrorist attack*, viewed 23 September 2026, https://about.fb.com/news/2019/03/technical-update-on-new-zealand/
 
+Shanks, D 2019, *When censorship becomes necessary | David Shanks | TEDxChristchurch*, video, 1 October, viewed 23 September 2026, https://www.youtube.com/watch?v=NhXiDPKnYNE
 
 > [!IMPORTANT]
 > **AI use policy:** 
