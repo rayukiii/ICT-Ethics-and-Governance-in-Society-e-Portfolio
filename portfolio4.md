@@ -129,22 +129,21 @@ Workshop Week | Week 9
 
 
 ### Summary of the artefact
-What I learnt this week was that 
-
-
+What I learnt this week was that censorship is much more complicated than simply blocking inappropriate or explicit content. Before this workshop, I mainly thought about censorship through things such as television classifications or content that children should not be allowed to see. However, during the workshop I learnt that censorship can involve governments, private companies and even individuals deciding what information should be restricted.
+We discussed different examples of government censorship, such as website blocking, as well as censorship by private companies. One example discussed was the case involving Cloudflare and the Daily Stormer website. Cloudflare initially had a strong position of providing its services regardless of the content of its customers, but later decided to stop providing services to the Daily Stormer. This raised questions about whether private companies should have the power to restrict access to online content.
+Another topic we discussed was the ethical perspective of Kantianism and John Stuart Mill. Kant generally opposed censorship because he believed people should be able to use their own reason, while Mill also supported freedom of expression but argued that restrictions could sometimes be justified to prevent harm to others.
 
 ### Justification on why I chose this artefact
 The photo attached was taken after our workshop ended as we always prefer focusing on the tutorial before taking any photos. 
 
-<!--## Progress Checklist
-- [] Artefact 1 written (summary + reflection)
-- [] Artefact 2 written
-- [] Artefact 3 written
-- [] Artefact 4 written
-- [] Workshop photo added
-- [] Harvard references complete (page numbers on journals)
-- [] Exported to PDF & submitted to Moodle
--->
+I chose this workshop reflection because it brought together many of the questions I had throughout my other artefacts. Before this workshop and activity, I thought that censorship was something used to protect people from inappropriate or harmful content. I did not really think about who should have the power to censor information, how much responsibility private companies have, or what could happen if too much information was restricted.
+
+One of the biggest ethical problems with censorship for me is finding the balance between protecting people from harm and protecting freedom of expression. After looking at both sides of the issue in Artefacts 2 and 3, I realised that restricting too little may allow harmful content to continue spreading, but restricting too much can also prevent people from freely expressing their opinions or accessing different ideas. I understood from this that censorship should not only have a good reason behind it, but should also involve transparency and accountability.
+In terms of ethical theory, Kant and Mill also helped me understand my opinion in two different ways. From a Kantian perspective, I would ask whether the same rule used for censorship would still be acceptable if every government or private company followed it. I would also think about whether people are being respected as individuals, rather than simply being used as a means to achieve someone else's goal. From Mill's perspective, I would instead ask whether restricting the content would actually prevent serious harm to other people and whether that harm is enough to justify limiting someone's freedom. Our workshop explains that Kant generally opposed censorship, while Mill also supported freedom of expression but allowed restrictions where they were necessary to prevent harm to others.
+
+My opinion about Internet censorship has changed after this workshop. I still believe that governments and private companies should sometimes restrict online content when there is a clear and serious risk of harm. However, I now understand that censorship should not automatically be considered good simply because its purpose is to protect people. I also realised that censorship is becoming more difficult in the modern world because we live in an era where information is constantly being created and shared, making it almost impossible to fully moderate. There should also be a reasonable reason for the restriction and some responsibility for whoever makes that decision. Overall, this workshop changed the way I think about censorship. I no longer see it as simply good or bad. Instead, I now think more about why something is being censored, who is making that decision, whether it is actually preventing harm, and whether people's freedom is still being respected.
+
+
 ## References
 <!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
 
