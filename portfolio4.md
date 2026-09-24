@@ -1,4 +1,4 @@
-<img width="1912" height="1045" alt="image" src="https://github.com/user-attachments/assets/cfa93e7e-633d-4649-82f4-8fc868a9d545" /><img width="1917" height="1050" alt="image" src="https://github.com/user-attachments/assets/da222259-2498-44ce-ab4d-bbdcb9bbf4e0" /># e-Portfolio 4 – Censorship & Government 
+# e-Portfolio 4 – Censorship & Government 
 This e-portfolio explores a collection of artefacts on what I have learned about **Censorship & Government** in my 9th week in the unit.
 
 ## Overview of Artefacts
@@ -83,7 +83,7 @@ Overall, these artefacts made me think that responsibility for censorship should
 ## Artefact 3: 
 
 <p align="center">
-  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/2e30eef1-1efa-4a34-81b5-12449ce0eb3b" />
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/4c35ac5c-e368-4470-880d-4ef3477fac43" />
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/cca3e9c1-ac5c-4670-92b0-296f7220d357" />
 </p>
 
