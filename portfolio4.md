@@ -7,12 +7,13 @@ Artefact # | Title | Type | Source
 Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link](https://www.britannica.com/topic/censorship)
 Artefact 2 | Who is responsible, and when is censorship necessary? | Youtube Video | [Link 1](https://www.youtube.com/watch?v=NhXiDPKnYNE) [Link 2](https://www.youtube.com/watch?v=XZJnJjOsJUI)
 Artefact 3 |  | Peer-viewed research | [Link](https://cqu.primo.exlibrisgroup.com/permalink/61CQU_INST/1kp0k1c/cdi_crossref_primary_10_1017_S0008197322000484)
-Artefact 4 |  | [Link]()
+Artefact 4 | My Workshop Reflection | [Link]()
 
 ## Artefact 1: What is Censorship? 
 
 <img width="1611" height="891" alt="image" src="https://github.com/user-attachments/assets/8f263daf-b8b8-4ca7-afbd-52831a91391e" />
 https://www.britannica.com/topic/censorship
+https://about.fb.com/news/2019/03/technical-update-on-new-zealand/
 
 ### Summary of the artefact
 This article from Encyclopaedia Britannica, written by Anastaplo (2026), explains what censorship is, its history, and how it relates to freedom of speech and government authority. 
@@ -44,12 +45,12 @@ https://www.youtube.com/watch?v=XZJnJjOsJUI [EXTRA VIDEO - Artefact 2:B]
 
 ### Summary of the artefact
 This YouTube video by TEDx Talks features David Shanks, who was New Zealand's Chief Censor, discussing when censorship may become necessary. 
-He explained the difficulty of balancing freedom of expression with the responsibility to protect society from harmful content (TEDx Talks 2019). 
+He explained the difficulty of balancing freedom of expression with the responsibility to protect society from harmful content (Shanks 2019). 
 One example discussed in the video is the livestream of the Christchurch Mosque attack in 2019, which showed me that this kind of content can cause a huge amount of chaos when it is allowed to spread freely. 
 He also stated that censorship should not simply be used because authorities disagree with something, and that freedom of expression should be protected whenever possible. Overall, he argues that censorship may become necessary when content is allowed to remain unrestricted and may create a serious risk of harm.
 
 In contrast, another video by TEDx Talks features Olivia Orlewicz discussing her own experience with youth censorship.
-When she was in 6th grade, she prepared a ted talk about veganism but was not allowed to present it to her classmates because the topic was considered as too mature (TEDx Talks 2020). 
+When she was in 6th grade, she prepared a ted talk about veganism but was not allowed to present it to her classmates because the topic was considered as too mature (Orlewicz 2020). 
 What I found interesting was that the censorship she experienced was not about protecting young people from obviously harmful or explicit material. 
 Instead, as a view, fact or idea that was withheld from students because adults decided that it was unsuitable for them. 
 Orlewicz argues that allowing young people to discuss difficult subjects can create opportunities for educational discussion rather than simply preventing them from hearing different perspectives.
@@ -91,9 +92,9 @@ https://humanrights.gov.au/about-us/news/countering-disinformation-online [MAIN 
 https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate [EXTRA ARTICLE- Artefact 3:B]
 
 ### Summary of the artefact
-This article by the Australian Human Rights Commission (2023) discusses the difficulty of controlling misinformation and disinformation online while still protecting people's freedom of expression. 
+This article by the Australian Human Rights Commission (AHRC 2023) discusses the difficulty of controlling misinformation and disinformation online while still protecting people's freedom of expression. 
 The article explains that social media has become an important place for people to share information, opinions and ideas, but it can also allow harmful or false information to spread. 
-The Commission states that some level of restriction may be necessary when dealing with harmful misinformation and disinformation, but there should also be transparency and accountability when deciding what content should be restricted (Australian Human Rights Commission 2023).
+The Commission states that some level of restriction may be necessary when dealing with harmful misinformation and disinformation, but there should also be transparency and accountability when deciding what content should be restricted (AHRC 2023).
 
 On the other hand, eSafety Commissioner (2024) discusses the opposite problem, where there may not be enough moderation of harmful content online. 
 The report found that X had significantly reduced its trust and safety staff, including safety engineers and content moderators. 
@@ -131,7 +132,7 @@ Workshop Week | Week 9
 ### Summary of the artefact
 What I learnt this week was that censorship is much more complicated than simply blocking inappropriate or explicit content. Before this workshop, I mainly thought about censorship through things such as television classifications or content that children should not be allowed to see. However, during the workshop I learnt that censorship can involve governments, private companies and even individuals deciding what information should be restricted.
 We discussed different examples of government censorship, such as website blocking, as well as censorship by private companies. One example discussed was the case involving Cloudflare and the Daily Stormer website. Cloudflare initially had a strong position of providing its services regardless of the content of its customers, but later decided to stop providing services to the Daily Stormer. This raised questions about whether private companies should have the power to restrict access to online content.
-Another topic we discussed was the ethical perspective of Kantianism and John Stuart Mill. Kant generally opposed censorship because he believed people should be able to use their own reason, while Mill also supported freedom of expression but argued that restrictions could sometimes be justified to prevent harm to others.
+Another topic we discussed was the ethical perspective of Kantianism and John Stuart Mill. Kant generally opposed censorship because he believed people should be able to use their own reason (CQUniversity 2026), while Mill also supported freedom of expression but argued that restrictions could sometimes be justified to prevent harm to others (CQUniversity 2026).
 
 ### Justification on why I chose this artefact
 The photo attached was taken after our workshop ended as we always prefer focusing on the tutorial before taking any photos. 
@@ -147,7 +148,18 @@ My opinion about Internet censorship has changed after this workshop. I still be
 ## References
 <!-- Harvard style. Page numbers go in the in-text citation, NOT here. -->
 
-Anastaplo, G 2026, ‘Censorship’, Encyclopaedia Britannica, 26 March, viewed 23 September 2026, https://www.britannica.com/topic/censorship/Character-and-freedom
+Anastaplo, G 2026, *Censorship*, *Encyclopaedia Britannica*, viewed 23 September 2026, https://www.britannica.com/topic/censorship
+
+Australian Human Rights Commission (AHRC) 2023, *Countering disinformation online*, viewed 23 September 2026, https://humanrights.gov.au/about-us/news/countering-disinformation-online
+
+eSafety Commissioner 2024, *Report reveals the extent of deep cuts to safety staff and gaps in Twitter/X’s measures to tackle online hate*, media release, 11 January, viewed 23 September 2026, https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate
+
+Orlewicz, O 2020, *The issues of youth censorship | Olivia Orlewicz | TEDxYouth@DoyleAve*, video, 6 November, viewed 23 September 2026, https://www.youtube.com/watch?v=XZJnJjOsJUI
+
+CQUniversity 2026, ‘Week 9: Censorship and Government’, PowerPoint presentation, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 24 September 2026, http://moodle.cqu.edu.au/
+
+Rosen, G 2019, *A further update on New Zealand terrorist attack*, viewed 23 September 2026, https://about.fb.com/news/2019/03/technical-update-on-new-zealand/
+
 
 > [!IMPORTANT]
 > **AI use policy:** 
