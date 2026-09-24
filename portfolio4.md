@@ -4,9 +4,9 @@ This e-portfolio explores a collection of artefacts on what I have learned about
 ## Overview of Artefacts
 Artefact # | Title | Type | Source
 ---------- | -------- | -------------- | --------------
-Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link](https://www.britannica.com/topic/censorship)
+Artefact 1 | What is Censorship? | Britannica Encyclopedia | [Link 1](https://www.britannica.com/topic/censorship) [Link 2](https://about.fb.com/news/2019/03/technical-update-on-new-zealand/)
 Artefact 2 | Who is responsible, and when is censorship necessary? | Youtube Video | [Link 1](https://www.youtube.com/watch?v=NhXiDPKnYNE) [Link 2](https://www.youtube.com/watch?v=XZJnJjOsJUI)
-Artefact 3 |  | Peer-viewed research | [Link](https://cqu.primo.exlibrisgroup.com/permalink/61CQU_INST/1kp0k1c/cdi_crossref_primary_10_1017_S0008197322000484)
+Artefact 3 | Balancing censorship and freedom of expression in Australia  | Articles | [Link 1](https://humanrights.gov.au/about-us/news/countering-disinformation-online) [Link 2](https://www.esafety.gov.au/newsroom/media-releases/report-reveals-the-extent-of-deep-cuts-to-safety-staff-and-gaps-in-twitter/xs-measures-to-tackle-online-hate)
 Artefact 4 | My Workshop Reflection | [Link]()
 
 ## Artefact 1: What is Censorship? 
@@ -81,7 +81,7 @@ Comparing the two videos made me realise that the reason behind censorship is im
 Protecting people from serious harm is different from preventing someone from sharing topics for educational purposes or expressing opinions simply because the topic may be uncomfortable for the audience.
 Overall, these artefacts made me think that responsibility for censorship should not only be about who has the power to restrict content, but also about whether there is a reasonable reason for restricting it in the first place. Additionally, I believe that we also have our own shared responsibility when it comes to freedom of speech and censorship. <!-- conclusion / self reflect -->
 
-## Artefact 3: 
+## Artefact 3: Balancing censorship and freedom of expression in Australia
 
 <p align="center">
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/4c35ac5c-e368-4470-880d-4ef3477fac43" />
