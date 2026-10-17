@@ -13,7 +13,7 @@ Artefact 6 | The Moral Cost of Automated Decisions | TEDx video | [Link](https:/
 
 ## Artefact 1: What is Automated Decision Making?
 
-<img width="1611" height="891" alt="image" src="https://github.com/user-attachments/assets/8f263daf-b8b8-4ca7-afbd-52831a91391e" />
+<img width="1907" height="1061" alt="image" src="https://github.com/user-attachments/assets/23ddf6a6-efee-4038-ae3f-b5d36b6a10f4" />
 https://www.ombudsman.gov.au/about/education-events-and-resources#:~:text=Automated%20Decision%20Making%20Better%20Practice%20Guide
 
 ### Summary of the artefact
